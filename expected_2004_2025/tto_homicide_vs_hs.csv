@@ -1,0 +1,6 @@
+outcome,n,median_days,q1_days,q3_days,pct_within_30d,pct_within_60d,pct_within_1yr,logrank_p_outcome_comparison
+Homicide,67,35,10,298.5,47.8,55.2,82.1,0.537
+H-S,9,15,5,267,66.7,66.7,88.9,0.537
+Completed Suicide,1063,24,6,122,54.8,66,84.7,0.537
+Serotonin Syndrome,850,16,1,175.75,56.5,64.1,80.6,0.537
+Combined,1964,22,3,151,55.1,64.8,82.8,

@@ -1,0 +1,5 @@
+outcome,group,n,median_days,q1_days,q3_days,pct_within_30d,pct_within_60d,pct_within_1yr,logrank_p_mono_vs_poly
+Completed Suicide,Mono,12,5,1.75,28,75,83.3,91.7,0.2149
+Completed Suicide,Poly,17,24,13,89,52.9,70.6,88.2,0.2149
+Serotonin Syndrome,Mono,10,3.5,0.25,59.5,70,70,100,0.1812
+Serotonin Syndrome,Poly,50,14,0,111,62,68,76,0.1812

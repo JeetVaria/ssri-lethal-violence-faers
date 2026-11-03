@@ -1,0 +1,49 @@
+Characteristic,n,%
+SSRI H-S (unrestricted) group,5,""
+  Monopharmacy (0 co-drugs),2,40.0
+  Polypharmacy (>=1 co-drug),3,60.0
+SSRI drug,"",""
+  Fluoxetine,3,60.0
+  Paroxetine,1,20.0
+  Sertraline,0,0.0
+  Fluvoxamine,0,0.0
+  Citalopram,0,0.0
+  Escitalopram,1,20.0
+Top 10 co-drugs,"",""
+  Dextromethorphan,2,40.0
+  Alcohol,1,20.0
+  Dronabinol,1,20.0
+  Venlafaxine,1,20.0
+Top 10 co-drug classes,"",""
+  Alcohol,1,20.0
+  Antidepressants,1,20.0
+  Cannabis,1,20.0
+  Other,2,40.0
+Substance Use,"",""
+  Alcohol,1,20.0
+  Cannabis,1,20.0
+Sex,"",""
+  Female,0,0.0
+  Male,4,80.0
+  Unknown,1,20.0
+Age,"",""
+"  Median age, years (IQR)",14 (14-14),""
+"  Mean age, years +/- SD",14 +/- 0,""
+  Age recorded,2,40.0
+    <18 years,2,40.0
+    18-44 years,0,0.0
+    45-64 years,0,0.0
+    65-74 years,0,0.0
+    >=75 years,0,0.0
+Top reporting countries,"",""
+  United States,4,80.0
+  Netherlands,1,20.0
+Report by (reporter occupation),"",""
+  Health professional,1,20.0
+  Consumer/non-health professional,4,80.0
+Report source (rpsr_cod; a report may carry several),"",""
+  Not recorded,5,100.0
+Top 10 indications for use,"",""
+  Indication unknown / not recorded,5,100.0
+Indications by category,"",""
+  (no indications recorded),0,0.0

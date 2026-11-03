@@ -1,0 +1,18 @@
+PT,DRUG,a,b,c,d,ROR (95% CI),PRR (chi2),MGPS (EBGM05),BCPNN (IC025),CONSENSUS
+Myopathy,Statin,278,14292,810,2764173,66.38 (57.87 - 76.14),65.13 (13026.5),48.63 (44.02),5.49 (5.34),Yes
+Rhabdomyolysis,Statin,1309,13261,3471,2761512,78.53 (73.53 - 83.88),71.57 (66202.0),52.22 (49.88),5.68 (5.61),Yes
+Cerebral Haemorrhage,Warfarin,31,796,3784,2774942,28.56 (19.92 - 40.94),27.53 (761.0),26.73 (19.53),4.27 (3.72),Yes
+Gastrointestinal Haemorrhage,Warfarin,64,763,5879,2772847,39.56 (30.62 - 51.12),36.58 (2160.4),35.86 (29.05),4.83 (4.47),Yes
+Haemorrhage,Warfarin,85,742,15226,2763500,20.79 (16.60 - 26.04),18.76 (1411.1),18.36 (15.20),4.08 (3.77),Yes
+Angioedema,ACE inhibitor,638,4068,4948,2769899,87.80 (80.40 - 95.87),76.03 (41861.0),67.38 (63.11),6.00 (5.90),Yes
+Completed Suicide,Vitamin D,1,69,6049,2773434,NA (NA - NA),NA (NA),NA (NA),NA (NA),No
+Homicidal Ideation,Vitamin D,0,70,177,2779306,NA (NA - NA),NA (NA),NA (NA),NA (NA),No
+Homicide,Vitamin D,0,70,335,2779148,NA (NA - NA),NA (NA),NA (NA),NA (NA),No
+Aggression,Vitamin D,0,70,4547,2774936,NA (NA - NA),NA (NA),NA (NA),NA (NA),No
+Violence-Related Symptom,Vitamin D,0,70,97,2779386,NA (NA - NA),NA (NA),NA (NA),NA (NA),No
+Suicidal Ideation,Vitamin D,0,70,10175,2769308,NA (NA - NA),NA (NA),NA (NA),NA (NA),No
+Suicide Attempt,Vitamin D,0,70,6620,2772863,NA (NA - NA),NA (NA),NA (NA),NA (NA),No
+Intentional Self-Injury,Vitamin D,0,70,1973,2777510,NA (NA - NA),NA (NA),NA (NA),NA (NA),No
+Serotonin Syndrome,Vitamin D,0,70,2948,2776535,NA (NA - NA),NA (NA),NA (NA),NA (NA),No
+Ingrowing Nail,Vitamin D,0,70,293,2779190,NA (NA - NA),NA (NA),NA (NA),NA (NA),No
+Ingrowing Nail,SSRI (pooled),0,14288,293,2764972,NA (NA - NA),NA (NA),NA (NA),NA (NA),No

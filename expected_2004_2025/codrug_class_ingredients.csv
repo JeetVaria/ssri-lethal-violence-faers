@@ -1,0 +1,127 @@
+class,ingredient,assigned_by,substance,H-S,Homicide
+Alcohol,ALCOHOL,RxNorm-resolved class,Alcohol,2,32
+Analgesics,ASPIRIN,RxNorm-resolved class,,0,1
+Analgesics,BUTALBITAL,RxNorm-resolved class,,0,1
+Analgesics,CODEINE,RxNorm-resolved class,,0,2
+Analgesics,DARVOCET,RxNorm-resolved class,,1,1
+Analgesics,DIHYDROCODEINE,RxNorm-resolved class,,0,1
+Analgesics,GABAPENTIN,RxNorm-resolved class,,0,1
+Analgesics,HYDROCODONE,RxNorm-resolved class,,0,1
+Analgesics,IBUPROFEN,RxNorm-resolved class,,0,1
+Analgesics,METHADONE,RxNorm-resolved class,,0,1
+Analgesics,MORPHINE,RxNorm-resolved class,,0,1
+Analgesics,NAPROXEN,RxNorm-resolved class,,0,1
+Anti-Anxiety Agents,ALPRAZOLAM,RxNorm-resolved class,,3,28
+Anti-Anxiety Agents,BROMAZEPAM,RxNorm-resolved class,,1,3
+Anti-Anxiety Agents,CHLORDIAZEPOXIDE,RxNorm-resolved class,,0,3
+Anti-Anxiety Agents,CLONAZEPAM,RxNorm-resolved class,,1,7
+Anti-Anxiety Agents,DEPAS,RxNorm-resolved class,,0,2
+Anti-Anxiety Agents,DIAZEPAM,RxNorm-resolved class,,1,8
+Anti-Anxiety Agents,HYDROXYZINE,RxNorm-resolved class,,0,1
+Anti-Anxiety Agents,KETAZOLAM,RxNorm-resolved class,,1,1
+Anti-Anxiety Agents,LEXOTAN,RxNorm-resolved class,,0,1
+Anti-Anxiety Agents,LIBRIUM,RxNorm-resolved class,,0,4
+Anti-Anxiety Agents,LORAZEPAM,RxNorm-resolved class,,1,13
+Anti-Anxiety Agents,OXAZEPAM,RxNorm-resolved class,,0,4
+Anti-Anxiety Agents,PRAZEPAM,RxNorm-resolved class,,1,1
+Anti-Anxiety Agents,TEMAZEPAM,RxNorm-resolved class,,0,5
+Antibiotics,CIPROFLOXACIN,RxNorm-resolved class,,0,4
+Antibiotics,ERYTHROMYCIN,RxNorm-resolved class,,0,1
+Antidepressants,AMITRIPTYLINE,RxNorm-resolved class,,0,4
+Antidepressants,ANTIDEPRESSANT,RxNorm-resolved class,,0,1
+Antidepressants,BUPROPION,RxNorm-resolved class,,0,2
+Antidepressants,DESVENLAFAXINE,RxNorm-resolved class,,0,1
+Antidepressants,DOTHIEPIN,RxNorm-resolved class,,0,2
+Antidepressants,DOXEPIN,RxNorm-resolved class,,0,3
+Antidepressants,DULOXETINE,RxNorm-resolved class,,0,1
+Antidepressants,MIRTAZAPINE,RxNorm-resolved class,,0,2
+Antidepressants,RESLIN,RxNorm-resolved class,,0,1
+Antidepressants,TOFRANIL,RxNorm-resolved class,,0,1
+Antidepressants,TRAZODONE,RxNorm-resolved class,,1,3
+Antidepressants,VENLAFAXINE,RxNorm-resolved class,,1,14
+Antidiabetics,METFORMIN,RxNorm-resolved class,,1,2
+Antihistamines,CINNARIZINE,RxNorm-resolved class,,0,1
+Antihistamines,DIPHENHYDRAMINE,RxNorm-resolved class,,0,6
+Antipsychotics,ARIPIPRAZOLE,RxNorm-resolved class,,0,1
+Antipsychotics,DOGMATYL,RxNorm-resolved class,,0,1
+Antipsychotics,HIRNAMIN,RxNorm-resolved class,,0,1
+Antipsychotics,OLANZAPINE,RxNorm-resolved class,,0,2
+Antipsychotics,PIPAMPERONE,RxNorm-resolved class,,0,1
+Antipsychotics,QUETIAPINE,RxNorm-resolved class,,1,9
+Antipsychotics,RISPERIDONE,RxNorm-resolved class,,1,6
+Antipsychotics,VEGETAMIN A,RxNorm-resolved class,,0,1
+Antivirals,INTERFERON,RxNorm-resolved class,,0,1
+Antivirals,PEG-INTRON,RxNorm-resolved class,,0,1
+Antivirals,REBETOL,RxNorm-resolved class,,0,1
+Antivirals,RIBAVIRIN,RxNorm-resolved class,,0,1
+Cannabis,CANNABIS,RxNorm-resolved class,Cannabis,0,8
+Cannabis,DRONABINOL,RxNorm-resolved class,Cannabis,1,1
+Cannabis,MARIJUANA,RxNorm-resolved class,Cannabis,0,3
+Cardiovascular Drugs,AMLODIPINE,RxNorm-resolved class,,0,1
+Cardiovascular Drugs,AMLOR,RxNorm-resolved class,,0,1
+Cardiovascular Drugs,ATORVASTATIN,RxNorm-resolved class,,0,4
+Cardiovascular Drugs,BISOPROLOL,RxNorm-resolved class,,0,1
+Cardiovascular Drugs,CANDESARTAN,RxNorm-resolved class,,0,1
+Cardiovascular Drugs,CAPTOPRIL,RxNorm-resolved class,,0,1
+Cardiovascular Drugs,HYDROCHLOROTHIAZIDE,RxNorm-resolved class,,0,1
+Cardiovascular Drugs,LOSARTAN,RxNorm-resolved class,,0,3
+Cardiovascular Drugs,PRAVASTATIN,RxNorm-resolved class,,0,1
+Cardiovascular Drugs,RAMIPRIL,RxNorm-resolved class,,0,1
+Cardiovascular Drugs,ROSUVASTATINA /01588601/,Keyword list,,0,1
+Cardiovascular Drugs,SILDENAFIL,RxNorm-resolved class,,0,1
+Cardiovascular Drugs,SIMVASTATIN,RxNorm-resolved class,,0,1
+Cardiovascular Drugs,WARFARIN,RxNorm-resolved class,,1,1
+Cocaine,COCAINE,RxNorm-resolved class,Cocaine,2,2
+Gastrointestinal Drugs,BUDESONIDE,RxNorm-resolved class,,0,3
+Gastrointestinal Drugs,ESOMEPRAZOLE,RxNorm-resolved class,,0,1
+Gastrointestinal Drugs,METOCLOPRAMIDE,RxNorm-resolved class,,0,4
+Gastrointestinal Drugs,OMEPRAZOLE,RxNorm-resolved class,,0,2
+Gastrointestinal Drugs,PURSENNID,RxNorm-resolved class,,0,1
+Gastrointestinal Drugs,RANITIDINE,RxNorm-resolved class,,0,1
+Gastrointestinal Drugs,REBAMIPIDE,RxNorm-resolved class,,0,1
+Gastrointestinal Drugs,SELBEX,RxNorm-resolved class,,0,1
+Hormonal Therapies,LEVOTHYROXINE,RxNorm-resolved class,,0,1
+Hormonal Therapies,METHYLTESTOSTERONE,RxNorm-resolved class,,2,2
+Hormonal Therapies,TESTOSTERONE,RxNorm-resolved class,,0,1
+Mood Stabilizers,CARBAMAZEPINE,RxNorm-resolved class,,0,1
+Mood Stabilizers,CARBOLITHIUM,RxNorm-resolved class,,0,1
+Mood Stabilizers,DEPAMIDE,RxNorm-resolved class,,0,1
+Mood Stabilizers,LEVETIRACETAM,RxNorm-resolved class,,0,1
+Mood Stabilizers,LITHIUM,RxNorm-resolved class,,0,3
+Mood Stabilizers,PHENOBARBITAL,RxNorm-resolved class,,0,2
+Mood Stabilizers,VALPROATE,RxNorm-resolved class,,0,8
+Mood Stabilizers,VALPROIC ACID,RxNorm-resolved class,,0,2
+Other,ACETONE,Unclassified,,0,2
+Other,ALBUTEROL,Unclassified,,0,1
+Other,ALUPENT,Unclassified,,0,1
+Other,AMOBARBITAL,Unclassified,,0,1
+Other,ANTIHYPERTENSIVE MEDICATIONS,Unclassified,,0,1
+Other,BACLOFEN,Unclassified,,0,1
+Other,CARBON MONOXIDE,Unclassified,,1,1
+Other,CHOLESTEROL MEDICATIONS,Unclassified,,0,1
+Other,CYRESS,Unclassified,,0,1
+Other,DEXTROMETHORPHAN,Unclassified,,2,2
+Other,DONEPEZIL,Unclassified,,0,1
+Other,ELECTROCONVULSIVE THERAPY,Unclassified,,0,1
+Other,FINASTERIDE,Unclassified,,0,2
+Other,FLUNISOLIDE,Unclassified,,0,1
+Other,HEROIN,Unclassified,,0,2
+Other,ISOTRETINOIN,Unclassified,,0,2
+Other,MEVAN,Unclassified,,0,1
+Other,MITRAGYNINE,Unclassified,,0,1
+Other,NEUROTROPIN,Unclassified,,0,1
+Other,NIGHTQUIL,Unclassified,,1,1
+Other,PA,Unclassified,,0,1
+Other,PROVENTIL /00139501/,Unclassified,,0,1
+Other,RINGEREAZE,Unclassified,,0,1
+Other,TOXIC AGENT,Unclassified,,1,1
+Other,UNKNOWN,Unclassified,,0,2
+Other,VICKS DAYQUIL,Unclassified,,1,1
+Stimulants,AMPHETAMINE,RxNorm-resolved class,,1,1
+Stimulants,CAFFEINE,RxNorm-resolved class,,2,4
+Stimulants,METHAMPHETAMINE,RxNorm-resolved class,,0,1
+Stimulants,METHYLPHENIDATE,RxNorm-resolved class,,0,2
+Stimulants,MODAFINIL,RxNorm-resolved class,,0,1
+Z-drugs (Sedative-Hypnotics),ESZOPICLONE,RxNorm-resolved class,,0,2
+Z-drugs (Sedative-Hypnotics),ZOLPIDEM,RxNorm-resolved class,,3,31
+Z-drugs (Sedative-Hypnotics),ZOPICLONE,RxNorm-resolved class,,0,12

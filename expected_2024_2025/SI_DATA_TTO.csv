@@ -1,0 +1,20 @@
+section,stratum,n,median_iqr_days,pct_within_30d,pct_within_1yr,logrank_p
+(a) Outcome,Homicide,0,"",,,0.845
+(a) Outcome,H-S,0,"",,,""
+(a) Outcome,Completed Suicide,29,19 (3 - 60),62.1,89.7,""
+(a) Outcome,Serotonin Syndrome,60,9 (0 - 93),63.3,80,""
+(a) Outcome,Combined,89,15 (1 - 89),62.9,83.1,""
+(b) Completed Suicide: Mono vs Poly,Mono,12,5 (2 - 28),75,91.7,0.215
+(b) Completed Suicide: Mono vs Poly,Poly,17,24 (13 - 89),52.9,88.2,""
+(b) Serotonin Syndrome: Mono vs Poly,Mono,10,4 (0 - 60),70,100,0.181
+(b) Serotonin Syndrome: Mono vs Poly,Poly,50,14 (0 - 111),62,76,""
+(c) Completed Suicide: per drug,Paroxetine,1,1,100,100,0.008
+(c) Completed Suicide: per drug,Citalopram,1,2,100,100,""
+(c) Completed Suicide: per drug,Sertraline,16,12 (5 - 21),87.5,93.8,""
+(c) Completed Suicide: per drug,Fluoxetine,3,89,0,100,""
+(c) Completed Suicide: per drug,Escitalopram,8,90 (39 - 502),25,75,""
+(c) Serotonin Syndrome: per drug,Sertraline,18,1 (0 - 33),72.2,94.4,0.324
+(c) Serotonin Syndrome: per drug,Paroxetine,13,6 (0 - 687),53.8,61.5,""
+(c) Serotonin Syndrome: per drug,Citalopram,1,10,100,100,""
+(c) Serotonin Syndrome: per drug,Escitalopram,15,25 (2 - 81),66.7,80,""
+(c) Serotonin Syndrome: per drug,Fluoxetine,13,29 (1 - 74),53.8,76.9,""

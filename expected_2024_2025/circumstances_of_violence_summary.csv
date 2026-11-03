@@ -1,0 +1,12 @@
+outcome,term,n,n_exclusive,subsumes,n_cases,pct
+H-S,Drug Interaction,2,2,"",5,40
+H-S,Aggression,1,1,"",5,20
+H-S,Physical Assault,1,1,"",5,20
+H-S,Sexual Abuse,1,1,"",5,20
+H-S,Toxicity to Various Agents,1,1,"",5,20
+Homicide,Physical Assault,3,3,"",9,33.3
+Homicide,Drug Interaction,3,3,"",9,33.3
+Homicide,Aggression,1,1,"",9,11.1
+Homicide,Sexual Abuse,1,1,"",9,11.1
+Homicide,Toxicity to Various Agents,1,1,"",9,11.1
+Homicide,Drug Ineffective,1,1,"",9,11.1

@@ -1,0 +1,17 @@
+drug,row,idx,p_value,p_lab,both_consensus,flag_low_n
+SSRI (POOLED),Homicide / Completed Suicide (PT),-0.158952581161235,0.35276869622302,p=0.353,TRUE,FALSE
+SSRI (POOLED),Homicidality / Suicidality (group),-0.381574119541152,1.80549747755336e-16,p<0.001,TRUE,FALSE
+Fluoxetine,Homicide / Completed Suicide (PT),0.375214569709003,0.0710724626942903,p=0.071,TRUE,FALSE
+Fluoxetine,Homicidality / Suicidality (group),-0.308684270929865,0.0013733460933256,p=0.001,TRUE,FALSE
+Paroxetine,Homicide / Completed Suicide (PT),,,"",FALSE,TRUE
+Paroxetine,Homicidality / Suicidality (group),0.00368583771360475,0.976085088640226,p=0.976,TRUE,FALSE
+Sertraline,Homicide / Completed Suicide (PT),,,"",FALSE,TRUE
+Sertraline,Homicidality / Suicidality (group),-0.427746072305135,3.01063759758639e-07,p<0.001,TRUE,FALSE
+Fluvoxamine,Homicide / Completed Suicide (PT),,,"",FALSE,TRUE
+Fluvoxamine,Homicidality / Suicidality (group),,,"",FALSE,TRUE
+Citalopram,Homicide / Completed Suicide (PT),,,"",FALSE,TRUE
+Citalopram,Homicidality / Suicidality (group),-0.461903516183042,,"",FALSE,FALSE
+Escitalopram,Homicide / Completed Suicide (PT),,,"",FALSE,TRUE
+Escitalopram,Homicidality / Suicidality (group),-0.506705516596966,1.05572547514302e-06,p<0.001,TRUE,FALSE
+Varenicline,Homicide / Completed Suicide (PT),,,"",FALSE,TRUE
+Varenicline,Homicidality / Suicidality (group),0.166285542741815,,"",FALSE,FALSE

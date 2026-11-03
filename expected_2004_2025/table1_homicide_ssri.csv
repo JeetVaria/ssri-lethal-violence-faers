@@ -1,0 +1,96 @@
+Characteristic,n,%
+SSRI Homicide (unrestricted) group,334,""
+  Monopharmacy (0 co-drugs),138,41.3
+  Polypharmacy (>=1 co-drug),196,58.7
+SSRI drug,"",""
+  Fluoxetine,90,26.9
+  Paroxetine,115,34.4
+  Sertraline,74,22.2
+  Fluvoxamine,4,1.2
+  Citalopram,24,7.2
+  Escitalopram,27,8.1
+Top 10 co-drugs,"",""
+  Alcohol,32,9.6
+  Zolpidem,31,9.3
+  Alprazolam,28,8.4
+  Venlafaxine,14,4.2
+  Lorazepam,13,3.9
+  Zopiclone,12,3.6
+  Quetiapine,9,2.7
+  Cannabis,8,2.4
+  Diazepam,8,2.4
+  Valproate,8,2.4
+Top 10 co-drug classes,"",""
+  Anti-Anxiety Agents,72,21.6
+  Z-drugs (Sedative-Hypnotics),40,12.0
+  Alcohol,32,9.6
+  Antidepressants,29,8.7
+  Antipsychotics,20,6.0
+  Mood Stabilizers,19,5.7
+  Cardiovascular Drugs,13,3.9
+  Gastrointestinal Drugs,13,3.9
+  Cannabis,12,3.6
+  Other,24,7.2
+Substance Use,"",""
+  Alcohol,32,9.6
+  Cannabis,12,3.6
+  Cocaine,2,0.6
+Sex,"",""
+  Female,67,20.1
+  Male,245,73.4
+  Unknown,22,6.6
+Age,"",""
+"  Median age, years (IQR)",33 (17.5-45.5),""
+"  Mean age, years +/- SD",34.4 +/- 17.3,""
+  Age recorded,247,74.0
+    <18 years,62,18.6
+    18-44 years,109,32.6
+    45-64 years,63,18.9
+    65-74 years,8,2.4
+    >=75 years,5,1.5
+Top reporting countries,"",""
+  United States,141,42.2
+  United Kingdom,54,16.2
+  Australia,27,8.1
+  Canada,12,3.6
+  Denmark,9,2.7
+  France,8,2.4
+  Netherlands,8,2.4
+  Japan,6,1.8
+  Other/not recorded,69,20.7
+Report by (reporter occupation),"",""
+  Health professional,53,15.9
+  Other health professional,92,27.5
+  Consumer/non-health professional,121,36.2
+  Lawyer/legal,22,6.6
+  Unknown/other,46,13.8
+Report source (rpsr_cod; a report may carry several),"",""
+  Other health professional,36,10.8
+  Health professional,59,17.7
+  Consumer/non-health professional,34,10.2
+  Foreign,39,11.7
+  Literature,20,6.0
+  Consumer reporter,9,2.7
+  Study,2,0.6
+  Not recorded,232,69.5
+Top 10 indications for use,"",""
+  Indication unknown / not recorded,119,35.6
+  Depression,120,35.9
+  Anxiety,35,10.5
+  Insomnia,24,7.2
+  Major Depression,18,5.4
+  Emotional Distress,13,3.9
+  Ill-Defined Disorder,11,3.3
+  Panic Disorder,7,2.1
+  Mental Disorder,6,1.8
+  Asthma,4,1.2
+  Bipolar Disorder,4,1.2
+Indications by category,"",""
+  Depressive Symptoms,152,45.5
+"  Anxiety, OCD, Trauma-Related and Dissociative Symptoms",49,14.7
+  Bipolar and Related Symptoms,4,1.2
+  Schizophrenia Spectrum & Psychotic Symptoms,4,1.2
+  Akathisia/Extrapyramidal Symptoms,1,0.3
+  Neurocognitive and Neurodevelopmental Symptoms,1,0.3
+  Personality Symptoms,1,0.3
+  Other,67,20.1

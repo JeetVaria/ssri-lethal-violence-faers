@@ -1,0 +1,91 @@
+Characteristic,n,%
+SSRI H-S (unrestricted) group,47,""
+  Monopharmacy (0 co-drugs),20,42.6
+  Polypharmacy (>=1 co-drug),27,57.4
+SSRI drug,"",""
+  Fluoxetine,15,31.9
+  Paroxetine,10,21.3
+  Sertraline,9,19.1
+  Fluvoxamine,3,6.4
+  Citalopram,5,10.6
+  Escitalopram,5,10.6
+Top 10 co-drugs,"",""
+  Alprazolam,3,6.4
+  Zolpidem,3,6.4
+  Alcohol,2,4.3
+  Caffeine,2,4.3
+  Cocaine,2,4.3
+  Dextromethorphan,2,4.3
+  Methyltestosterone,2,4.3
+  Amphetamine,1,2.1
+  Bromazepam,1,2.1
+  Carbon Monoxide,1,2.1
+Top 10 co-drug classes,"",""
+  Anti-Anxiety Agents,7,14.9
+  Stimulants,3,6.4
+  Z-drugs (Sedative-Hypnotics),3,6.4
+  Alcohol,2,4.3
+  Antidepressants,2,4.3
+  Antipsychotics,2,4.3
+  Cocaine,2,4.3
+  Hormonal Therapies,2,4.3
+  Analgesics,1,2.1
+  Other,5,10.6
+Substance Use,"",""
+  Alcohol,2,4.3
+  Cocaine,2,4.3
+  Cannabis,1,2.1
+Sex,"",""
+  Female,12,25.5
+  Male,31,66.0
+  Unknown,4,8.5
+Age,"",""
+"  Median age, years (IQR)",40 (23.5-43),""
+"  Mean age, years +/- SD",37.2 +/- 16.6,""
+  Age recorded,31,66.0
+    <18 years,5,10.6
+    18-44 years,19,40.4
+    45-64 years,5,10.6
+    65-74 years,1,2.1
+    >=75 years,1,2.1
+Top reporting countries,"",""
+  United States,30,63.8
+  France,4,8.5
+  Italy,2,4.3
+  Netherlands,2,4.3
+  United Kingdom,2,4.3
+  Canada,1,2.1
+  Denmark,1,2.1
+  Other/not recorded,5,10.6
+Report by (reporter occupation),"",""
+  Health professional,5,10.6
+  Other health professional,2,4.3
+  Consumer/non-health professional,31,66.0
+  Lawyer/legal,3,6.4
+  Unknown/other,6,12.8
+Report source (rpsr_cod; a report may carry several),"",""
+  Other health professional,3,6.4
+  Health professional,3,6.4
+  Consumer/non-health professional,6,12.8
+  Foreign,3,6.4
+  Literature,2,4.3
+  Consumer reporter,1,2.1
+  Not recorded,37,78.7
+Top 10 indications for use,"",""
+  Indication unknown / not recorded,24,51.1
+  Depression,13,27.7
+  Anxiety,4,8.5
+  Antidepressant Therapy,1,2.1
+  Bipolar Disorder,1,2.1
+  Covid-19,1,2.1
+  Ill-Defined Disorder,1,2.1
+  Insomnia,1,2.1
+  Major Depression,1,2.1
+  Medical Diet,1,2.1
+  Persistent Depressive Disorder,1,2.1
+Indications by category,"",""
+  Depressive Symptoms,15,31.9
+"  Anxiety, OCD, Trauma-Related and Dissociative Symptoms",4,8.5
+  Schizophrenia Spectrum & Psychotic Symptoms,2,4.3
+  Bipolar and Related Symptoms,1,2.1
+  Other,5,10.6

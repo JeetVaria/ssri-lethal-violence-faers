@@ -1,0 +1,38 @@
+outcome,class,type,n,n_cases,pct
+H-S,Anti-Anxiety Agents,Pharmaceutical,7,47,14.9
+H-S,Other,Pharmaceutical,5,47,10.6
+H-S,Stimulants,Pharmaceutical,3,47,6.4
+H-S,Z-drugs (Sedative-Hypnotics),Pharmaceutical,3,47,6.4
+H-S,Alcohol,Pharmaceutical,2,47,4.3
+H-S,Antidepressants,Pharmaceutical,2,47,4.3
+H-S,Antipsychotics,Pharmaceutical,2,47,4.3
+H-S,Cocaine,Pharmaceutical,2,47,4.3
+H-S,Hormonal Therapies,Pharmaceutical,2,47,4.3
+H-S,Analgesics,Pharmaceutical,1,47,2.1
+H-S,Antidiabetics,Pharmaceutical,1,47,2.1
+H-S,Cannabis,Pharmaceutical,1,47,2.1
+H-S,Cardiovascular Drugs,Pharmaceutical,1,47,2.1
+H-S,Alcohol,Substance Use,2,47,4.3
+H-S,Cocaine,Substance Use,2,47,4.3
+H-S,Cannabis,Substance Use,1,47,2.1
+Homicide,Anti-Anxiety Agents,Pharmaceutical,72,334,21.6
+Homicide,Z-drugs (Sedative-Hypnotics),Pharmaceutical,40,334,12
+Homicide,Alcohol,Pharmaceutical,32,334,9.6
+Homicide,Antidepressants,Pharmaceutical,29,334,8.7
+Homicide,Other,Pharmaceutical,24,334,7.2
+Homicide,Antipsychotics,Pharmaceutical,20,334,6
+Homicide,Mood Stabilizers,Pharmaceutical,19,334,5.7
+Homicide,Cardiovascular Drugs,Pharmaceutical,13,334,3.9
+Homicide,Gastrointestinal Drugs,Pharmaceutical,13,334,3.9
+Homicide,Cannabis,Pharmaceutical,12,334,3.6
+Homicide,Analgesics,Pharmaceutical,9,334,2.7
+Homicide,Stimulants,Pharmaceutical,8,334,2.4
+Homicide,Antihistamines,Pharmaceutical,7,334,2.1
+Homicide,Antibiotics,Pharmaceutical,5,334,1.5
+Homicide,Hormonal Therapies,Pharmaceutical,4,334,1.2
+Homicide,Antidiabetics,Pharmaceutical,2,334,0.6
+Homicide,Antivirals,Pharmaceutical,2,334,0.6
+Homicide,Cocaine,Pharmaceutical,2,334,0.6
+Homicide,Alcohol,Substance Use,32,334,9.6
+Homicide,Cannabis,Substance Use,12,334,3.6
+Homicide,Cocaine,Substance Use,2,334,0.6

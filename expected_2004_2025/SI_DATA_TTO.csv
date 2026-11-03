@@ -1,0 +1,36 @@
+section,stratum,n,median_iqr_days,pct_within_30d,pct_within_1yr,logrank_p
+(a) Outcome,Homicide,67,35 (10 - 299),47.8,82.1,0.537
+(a) Outcome,H-S,9,15 (5 - 267),66.7,88.9,""
+(a) Outcome,Completed Suicide,1063,24 (6 - 122),54.8,84.7,""
+(a) Outcome,Serotonin Syndrome,850,16 (1 - 176),56.5,80.6,""
+(a) Outcome,Combined,1964,22 (3 - 151),55.1,82.8,""
+(b) Completed Suicide: Mono vs Poly,Mono,395,18 (5 - 85),60.8,87.6,0.003
+(b) Completed Suicide: Mono vs Poly,Poly,668,30 (6 - 153),51.2,82.9,""
+(b) H-S: Mono vs Poly,Mono,5,5 (2 - 267),60,80,0.988
+(b) H-S: Mono vs Poly,Poly,4,17 (13 - 93),75,100,""
+(b) Homicide: Mono vs Poly,Mono,24,190 (15 - 351),41.7,79.2,0.319
+(b) Homicide: Mono vs Poly,Poly,43,28 (10 - 265),51.2,83.7,""
+(b) Serotonin Syndrome: Mono vs Poly,Mono,160,3 (0 - 41),73.1,91.2,<0.001
+(b) Serotonin Syndrome: Mono vs Poly,Poly,690,24 (1 - 260),52.6,78.1,""
+(c) Completed Suicide: per drug,Fluvoxamine,9,7 (3 - 425),55.6,66.7,<0.001
+(c) Completed Suicide: per drug,Citalopram,183,13 (2 - 44),65,89.6,""
+(c) Completed Suicide: per drug,Escitalopram,237,19 (5 - 71),61.2,91.1,""
+(c) Completed Suicide: per drug,Sertraline,179,19 (6 - 73),59.8,87.7,""
+(c) Completed Suicide: per drug,Fluoxetine,140,23 (6 - 98),55.7,87.9,""
+(c) Completed Suicide: per drug,Paroxetine,315,62 (12 - 379),40.6,74.3,""
+(c) H-S: per drug,Citalopram,3,5,100,100,0.155
+(c) H-S: per drug,Sertraline,2,8,100,100,""
+(c) H-S: per drug,Escitalopram,2,161,50,100,""
+(c) H-S: per drug,Fluoxetine,2,356,0,50,""
+(c) Homicide: per drug,Citalopram,7,10 (8 - 23),85.7,100,0.150
+(c) Homicide: per drug,Sertraline,12,20 (7 - 523),58.3,66.7,""
+(c) Homicide: per drug,Varenicline,8,33 (14 - 1210),50,62.5,""
+(c) Homicide: per drug,Fluoxetine,19,35 (15 - 277),42.1,89.5,""
+(c) Homicide: per drug,Escitalopram,10,148 (10 - 353),50,90,""
+(c) Homicide: per drug,Paroxetine,19,163 (24 - 350),31.6,73.7,""
+(c) Serotonin Syndrome: per drug,Escitalopram,149,7 (0 - 101),64.4,85.2,0.006
+(c) Serotonin Syndrome: per drug,Fluoxetine,81,7 (0 - 74),61.7,82.7,""
+(c) Serotonin Syndrome: per drug,Citalopram,151,9 (0 - 97),60.3,79.5,""
+(c) Serotonin Syndrome: per drug,Sertraline,233,15 (1 - 150),57.5,84.1,""
+(c) Serotonin Syndrome: per drug,Paroxetine,217,40 (2 - 392),47,73.7,""
+(c) Serotonin Syndrome: per drug,Fluvoxamine,19,76 (6 - 365),36.8,78.9,""

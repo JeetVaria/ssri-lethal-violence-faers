@@ -1,0 +1,57 @@
+Characteristic,n,%
+SSRI Homicide (unrestricted) group,9,""
+  Monopharmacy (0 co-drugs),5,55.6
+  Polypharmacy (>=1 co-drug),4,44.4
+SSRI drug,"",""
+  Fluoxetine,6,66.7
+  Paroxetine,2,22.2
+  Sertraline,0,0.0
+  Fluvoxamine,0,0.0
+  Citalopram,0,0.0
+  Escitalopram,1,11.1
+Top 10 co-drugs,"",""
+  Dextromethorphan,2,22.2
+  Alcohol,1,11.1
+  Dronabinol,1,11.1
+  Venlafaxine,1,11.1
+  Zolpidem,1,11.1
+Top 10 co-drug classes,"",""
+  Alcohol,1,11.1
+  Antidepressants,1,11.1
+  Cannabis,1,11.1
+  Z-drugs (Sedative-Hypnotics),1,11.1
+  Other,2,22.2
+Substance Use,"",""
+  Alcohol,1,11.1
+  Cannabis,1,11.1
+Sex,"",""
+  Female,1,11.1
+  Male,7,77.8
+  Unknown,1,11.1
+Age,"",""
+"  Median age, years (IQR)",17 (14-26),""
+"  Mean age, years +/- SD",26.6 +/- 20.4,""
+  Age recorded,5,55.6
+    <18 years,3,33.3
+    18-44 years,1,11.1
+    45-64 years,1,11.1
+    65-74 years,0,0.0
+    >=75 years,0,0.0
+Top reporting countries,"",""
+  United States,7,77.8
+  Netherlands,1,11.1
+  Turkey,1,11.1
+Report by (reporter occupation),"",""
+  Health professional,2,22.2
+  Consumer/non-health professional,7,77.8
+Report source (rpsr_cod; a report may carry several),"",""
+  Not recorded,9,100.0
+Top 10 indications for use,"",""
+  Indication unknown / not recorded,7,77.8
+  Anxiety,1,11.1
+  Depression,1,11.1
+  Insomnia,1,11.1
+Indications by category,"",""
+"  Anxiety, OCD, Trauma-Related and Dissociative Symptoms",1,11.1
+  Depressive Symptoms,1,11.1
+  Other,1,11.1

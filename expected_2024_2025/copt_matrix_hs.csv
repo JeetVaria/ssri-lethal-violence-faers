@@ -1,0 +1,15 @@
+PT,category,broad_category,mono,poly,total,n_cases
+"TOTAL (>=1 PT, Psychosis)",Psychosis,,0,2,2,5
+"TOTAL BROAD (>=1 PT, Schizophrenia Spectrum & Psychotic Symptoms)",,Schizophrenia Spectrum & Psychotic Symptoms,0,2,2,5
+Compulsive Sexual Behaviour,Other,Other,0,2,2,5
+Drug Interaction,Other,Other,0,2,2,5
+Serotonin Syndrome,Other,Other,0,2,2,5
+Aggression,Other,Other,0,1,1,5
+Death,Other,Other,0,1,1,5
+Drug Abuse,Other,Other,0,1,1,5
+Drug Level above Therapeutic,Other,Other,0,1,1,5
+Physical Assault,Other,Other,1,0,1,5
+Sexual Abuse,Other,Other,0,1,1,5
+Shared Psychotic Disorder,Psychosis,Schizophrenia Spectrum & Psychotic Symptoms,0,1,1,5
+Substance-Induced Psychotic Disorder,Psychosis,Schizophrenia Spectrum & Psychotic Symptoms,0,1,1,5
+Toxicity to Various Agents,Other,Other,0,1,1,5

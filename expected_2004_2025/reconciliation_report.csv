@@ -1,0 +1,55 @@
+check,status,detail
+contingency cells present on every row,PASS,0 of 192 rows incomplete
+reference set size identical across files,PASS,"Monopharmacy: 11,273,546 | Unrestricted: 19,687,141"
+a + b = group size,PASS,0 rows disagree
+PT total (a + c) does not depend on the drug,PASS,0 of 24 outcome blocks disagree
+rows repeated across source files agree,PASS,0 keys conflict
+"ror follows from a, b, c, d",PASS,0 of 190 rows differ
+"ror_ci_low follows from a, b, c, d",PASS,0 of 190 rows differ
+"ror_ci_high follows from a, b, c, d",PASS,0 of 190 rows differ
+"prr follows from a, b, c, d",PASS,0 of 190 rows differ
+"prr_ci_low follows from a, b, c, d",PASS,0 of 190 rows differ
+"prr_ci_high follows from a, b, c, d",PASS,0 of 190 rows differ
+"chisq follows from a, b, c, d",PASS,0 of 190 rows differ
+"ic follows from a, b, c, d",PASS,0 of 190 rows differ
+point estimates lie inside their own intervals,PASS,0 rows outside
+consensus is the conjunction of the four flags,PASS,0 rows disagree
+ror_signal follows from its threshold,PASS,0 of 192 rows disagree
+prr_signal follows from its threshold,PASS,0 of 192 rows disagree
+ic_signal follows from its threshold,PASS,0 of 192 rows disagree
+ebgm_signal follows from its threshold,PASS,0 of 192 rows disagree
+no reported signal rests on fewer than three cases,PASS,0 of 179 reported signals
+PT rows under three cases carry no estimate,PASS,0 rows estimated below the floor
+monopharmacy cases never exceed unrestricted cases,PASS,0 of 96 outcome-drug pairs exceed
+Unrestricted per-drug cases sum to the pooled count,PASS,0 of 12 outcomes disagree
+Monopharmacy per-drug cases sum to the pooled count,PASS,0 of 12 outcomes disagree
+every outcome-drug pair is present under both analyses,PASS,0 of 96 pairs appear under only one analysis
+H-S composite does not exceed either component,PASS,0 rows exceed
+every case listing maps to an outcome,PASS,0 of 19 listings could not be matched to an outcome
+case listings hold one row per report,PASS,0 files repeat a report
+no removed report appears in a case listing,PASS,0 removed reports found
+case listings hold as many reports as cell a,PASS,0 of 19 matched listings disagree
+table1_homicide_ssri.csv table 1 N matches cell a,PASS,table says 334
+table1_homicide_ssri.csv every percentage is n / N,PASS,0 rows disagree
+table1_homicide_ssri.csv monopharmacy + polypharmacy + no drug = N,PASS,334 vs 334
+table1_homicide_ssri.csv SSRI drug rows sum to N,PASS,334 vs 334
+table1_homicide_ssri.csv countries are in descending order,PASS,141 54 27 12 9 8 8 6
+table1_homicide_ssri.csv no co-drug is a salt form of another,PASS,""
+table1_hs_ssri.csv table 1 N matches cell a,PASS,table says 47
+table1_hs_ssri.csv every percentage is n / N,PASS,0 rows disagree
+table1_hs_ssri.csv monopharmacy + polypharmacy + no drug = N,PASS,47 vs 47
+table1_hs_ssri.csv SSRI drug rows sum to N,PASS,47 vs 47
+table1_hs_ssri.csv countries are in descending order,PASS,30 4 2 2 2 1 1
+table1_hs_ssri.csv no co-drug is a salt form of another,PASS,""
+removal list identifiers are unique,PASS,0 repeated
+removal reasons are the expected three,PASS,duplicate_report 6198 | implausible_date 17 | serial_reporter 12
+every row carries a description,PASS,0 blank
+retained report named on duplicate rows,PASS,"6195 of 6198 duplicate rows, and 6207 of 6227 rows overall"
+every named retained report is itself retained,PASS,0 notes point at a report that was also removed
+a counterpart is recorded only where one was retained,PASS,0 rows removed on their own grounds name one
+MGPS hyperparameters are five finite numbers per reference set,PASS,Unrestricted: 0.08020/0.00610/0.61598/0.51500/0.05168 | Monopharmacy: 0.07633/0.00720/0.38064/0.60593/0.07022
+each reference set has its own prior,PASS,unrestricted and monopharmacy hyperparameters differ
+the prior used is the prior fitted,PASS,0 parameters were moved before scoring
+"ebgm follows from a, b, c, d and the prior",PASS,0 of 184 rows differ
+"ebgm05 follows from a, b, c, d and the prior",PASS,0 of 184 rows differ
+EBGM05 is the 5th percentile and not the 2.5th,PASS,0 of 184 rows would also match the 2.5th

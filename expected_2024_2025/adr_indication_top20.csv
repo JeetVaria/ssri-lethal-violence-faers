@@ -1,0 +1,174 @@
+DRUG_GROUP,ADR,adr_n_cases,n_with_indication,rank,indication,n,pct
+SSRI,Serotonin Syndrome,417,278,1,Depression,100,24
+SSRI,Serotonin Syndrome,417,278,2,Antidepressant Therapy,31,7.4
+SSRI,Serotonin Syndrome,417,278,3,Anxiety,28,6.7
+SSRI,Serotonin Syndrome,417,278,4,Major Depression,24,5.8
+SSRI,Serotonin Syndrome,417,278,5,Generalised Anxiety Disorder,13,3.1
+SSRI,Serotonin Syndrome,417,278,6,Migraine,12,2.9
+SSRI,Serotonin Syndrome,417,278,7,Pain,11,2.6
+SSRI,Serotonin Syndrome,417,278,8,Sleep Disorder,11,2.6
+SSRI,Serotonin Syndrome,417,278,9,Insomnia,10,2.4
+SSRI,Serotonin Syndrome,417,278,10,Sedation,10,2.4
+SSRI,Serotonin Syndrome,417,278,11,Drug Use Disorder,10,2.4
+SSRI,Serotonin Syndrome,417,278,12,Cough,9,2.2
+SSRI,Serotonin Syndrome,417,278,13,Bipolar Disorder,8,1.9
+SSRI,Serotonin Syndrome,417,278,14,Seizure,8,1.9
+SSRI,Serotonin Syndrome,417,278,15,Obesity,8,1.9
+SSRI,Serotonin Syndrome,417,278,16,Mixed Anxiety and Depressive Disorder,7,1.7
+SSRI,Serotonin Syndrome,417,278,17,Suicide Attempt,7,1.7
+SSRI,Serotonin Syndrome,417,278,18,Obsessive-Compulsive Disorder,6,1.4
+SSRI,Serotonin Syndrome,417,278,19,Depressive Symptom,6,1.4
+SSRI,Serotonin Syndrome,417,278,20,Adverse Drug Reaction,6,1.4
+SSRI,Homicide,9,2,1,Anxiety,1,11.1
+SSRI,Homicide,9,2,2,Insomnia,1,11.1
+SSRI,Homicide,9,2,3,Depression,1,11.1
+SSRI,Aggression,99,72,1,Depression,17,17.2
+SSRI,Aggression,99,72,2,Anxiety,15,15.2
+SSRI,Aggression,99,72,3,Obsessive-Compulsive Disorder,9,9.1
+SSRI,Aggression,99,72,4,Attention Deficit Hyperactivity Disorder,7,7.1
+SSRI,Aggression,99,72,5,Autism Spectrum Disorder,5,5.1
+SSRI,Aggression,99,72,6,Sleep Disorder,4,4
+SSRI,Aggression,99,72,7,Mixed Anxiety and Depressive Disorder,4,4
+SSRI,Aggression,99,72,8,Back Pain,3,3
+SSRI,Aggression,99,72,9,Schizophrenia,3,3
+SSRI,Aggression,99,72,10,Post-Traumatic Stress Disorder,3,3
+SSRI,Aggression,99,72,11,Panic Attack,3,3
+SSRI,Aggression,99,72,12,Epilepsy,2,2
+SSRI,Aggression,99,72,13,Depression Suicidal,2,2
+SSRI,Aggression,99,72,14,Hypertension,2,2
+SSRI,Aggression,99,72,15,Affective Disorder,2,2
+SSRI,Aggression,99,72,16,Intellectual Disability,2,2
+SSRI,Aggression,99,72,17,Behaviour Disorder,2,2
+SSRI,Aggression,99,72,18,Antipsychotic Therapy,2,2
+SSRI,Aggression,99,72,19,Adverse Drug Reaction,2,2
+SSRI,Aggression,99,72,20,Seizure,2,2
+SSRI,Homicidal Ideation,13,10,1,Depression,4,30.8
+SSRI,Homicidal Ideation,13,10,2,Anxiety,3,23.1
+SSRI,Homicidal Ideation,13,10,3,Obsessive-Compulsive Disorder,3,23.1
+SSRI,Homicidal Ideation,13,10,4,Major Depression,1,7.7
+SSRI,Homicidal Ideation,13,10,5,Bipolar Disorder,1,7.7
+SSRI,Homicidal Ideation,13,10,6,Schizophrenia,1,7.7
+SSRI,Homicidal Ideation,13,10,7,Social Anxiety Disorder,1,7.7
+SSRI,Violence-Related Symptom,5,2,1,Insomnia,1,20
+SSRI,Violence-Related Symptom,5,2,2,Anxiety,1,20
+SSRI,Completed Suicide,219,95,1,Depression,32,14.6
+SSRI,Completed Suicide,219,95,2,Suicide Attempt,25,11.4
+SSRI,Completed Suicide,219,95,3,Anxiety,15,6.8
+SSRI,Completed Suicide,219,95,4,Poor Quality Sleep,5,2.3
+SSRI,Completed Suicide,219,95,5,Major Depression,4,1.8
+SSRI,Completed Suicide,219,95,6,Insomnia,4,1.8
+SSRI,Completed Suicide,219,95,7,Antidepressant Therapy,3,1.4
+SSRI,Completed Suicide,219,95,8,Obsessive-Compulsive Disorder,3,1.4
+SSRI,Completed Suicide,219,95,9,Psychotic Disorder,2,0.9
+SSRI,Completed Suicide,219,95,10,Sleep Disorder,2,0.9
+SSRI,Completed Suicide,219,95,11,Depressed Mood,2,0.9
+SSRI,Completed Suicide,219,95,12,Panic Attack,2,0.9
+SSRI,Completed Suicide,219,95,13,Schizophrenia,2,0.9
+SSRI,Completed Suicide,219,95,14,Adverse Drug Reaction,2,0.9
+SSRI,Completed Suicide,219,95,15,Stress at Work,2,0.9
+SSRI,Completed Suicide,219,95,16,Panic Disorder,2,0.9
+SSRI,Completed Suicide,219,95,17,Antipsychotic Therapy,2,0.9
+SSRI,Completed Suicide,219,95,18,Suicidal Ideation,2,0.9
+SSRI,Completed Suicide,219,95,19,Restlessness,1,0.5
+SSRI,Completed Suicide,219,95,20,Autism Spectrum Disorder,1,0.5
+SSRI,Suicidal Ideation,465,345,1,Depression,175,37.6
+SSRI,Suicidal Ideation,465,345,2,Anxiety,101,21.7
+SSRI,Suicidal Ideation,465,345,3,Obsessive-Compulsive Disorder,19,4.1
+SSRI,Suicidal Ideation,465,345,4,Insomnia,17,3.7
+SSRI,Suicidal Ideation,465,345,5,Major Depression,13,2.8
+SSRI,Suicidal Ideation,465,345,6,Generalised Anxiety Disorder,11,2.4
+SSRI,Suicidal Ideation,465,345,7,Post-Traumatic Stress Disorder,9,1.9
+SSRI,Suicidal Ideation,465,345,8,Psychotic Disorder,8,1.7
+SSRI,Suicidal Ideation,465,345,9,Affective Disorder,7,1.5
+SSRI,Suicidal Ideation,465,345,10,Bipolar Disorder,7,1.5
+SSRI,Suicidal Ideation,465,345,11,Panic Attack,7,1.5
+SSRI,Suicidal Ideation,465,345,12,Attention Deficit Hyperactivity Disorder,7,1.5
+SSRI,Suicidal Ideation,465,345,13,Sleep Disorder,6,1.3
+SSRI,Suicidal Ideation,465,345,14,Antidepressant Therapy,6,1.3
+SSRI,Suicidal Ideation,465,345,15,Mixed Anxiety and Depressive Disorder,6,1.3
+SSRI,Suicidal Ideation,465,345,16,Panic Disorder,6,1.3
+SSRI,Suicidal Ideation,465,345,17,Adverse Drug Reaction,6,1.3
+SSRI,Suicidal Ideation,465,345,18,Depressive Symptom,5,1.1
+SSRI,Suicidal Ideation,465,345,19,Heavy Menstrual Bleeding,5,1.1
+SSRI,Suicidal Ideation,465,345,20,Mental Disorder,5,1.1
+SSRI,Suicide Attempt,433,187,1,Depression,84,19.4
+SSRI,Suicide Attempt,433,187,2,Anxiety,27,6.2
+SSRI,Suicide Attempt,433,187,3,Major Depression,24,5.5
+SSRI,Suicide Attempt,433,187,4,Suicide Attempt,13,3
+SSRI,Suicide Attempt,433,187,5,Insomnia,10,2.3
+SSRI,Suicide Attempt,433,187,6,Obsessive-Compulsive Disorder,7,1.6
+SSRI,Suicide Attempt,433,187,7,Schizophrenia,7,1.6
+SSRI,Suicide Attempt,433,187,8,Hypothyroidism,7,1.6
+SSRI,Suicide Attempt,433,187,9,Affective Disorder,6,1.4
+SSRI,Suicide Attempt,433,187,10,Generalised Anxiety Disorder,6,1.4
+SSRI,Suicide Attempt,433,187,11,Hypertension,5,1.2
+SSRI,Suicide Attempt,433,187,12,Psychotic Disorder,5,1.2
+SSRI,Suicide Attempt,433,187,13,Mixed Anxiety and Depressive Disorder,5,1.2
+SSRI,Suicide Attempt,433,187,14,Toxicity to Various Agents,5,1.2
+SSRI,Suicide Attempt,433,187,15,Sleep Disorder,4,0.9
+SSRI,Suicide Attempt,433,187,16,Antidepressant Therapy,4,0.9
+SSRI,Suicide Attempt,433,187,17,Depressed Mood,4,0.9
+SSRI,Suicide Attempt,433,187,18,Mental Disorder,3,0.7
+SSRI,Suicide Attempt,433,187,19,Asthma,3,0.7
+SSRI,Suicide Attempt,433,187,20,Schizoaffective Disorder Bipolar Type,3,0.7
+SSRI,Intentional Self-Injury,109,43,1,Depression,17,15.6
+SSRI,Intentional Self-Injury,109,43,2,Anxiety,9,8.3
+SSRI,Intentional Self-Injury,109,43,3,Bipolar Disorder,5,4.6
+SSRI,Intentional Self-Injury,109,43,4,Antidepressant Therapy,4,3.7
+SSRI,Intentional Self-Injury,109,43,5,Schizophrenia,3,2.8
+SSRI,Intentional Self-Injury,109,43,6,Intentional Self-Injury,2,1.8
+SSRI,Intentional Self-Injury,109,43,7,Major Depression,2,1.8
+SSRI,Intentional Self-Injury,109,43,8,Eating Disorder,2,1.8
+SSRI,Intentional Self-Injury,109,43,9,Insomnia,1,0.9
+SSRI,Intentional Self-Injury,109,43,10,Persistent Depressive Disorder,1,0.9
+SSRI,Intentional Self-Injury,109,43,11,Asthma,1,0.9
+SSRI,Intentional Self-Injury,109,43,12,"Hallucination, Auditory",1,0.9
+SSRI,Intentional Self-Injury,109,43,13,Evidence Based Treatment,1,0.9
+SSRI,Intentional Self-Injury,109,43,14,Autism Spectrum Disorder,1,0.9
+SSRI,Intentional Self-Injury,109,43,15,Obsessive-Compulsive Disorder,1,0.9
+SSRI,Intentional Self-Injury,109,43,16,Sleep Disorder,1,0.9
+SSRI,Intentional Self-Injury,109,43,17,Micturition Disorder,1,0.9
+SSRI,Intentional Self-Injury,109,43,18,Fibromyalgia,1,0.9
+SSRI,Intentional Self-Injury,109,43,19,Alcoholism,1,0.9
+SSRI,Intentional Self-Injury,109,43,20,Bipolar II Disorder,1,0.9
+SSRI,Homicide + Completed Suicide (co-reported),5,0,1,(none recorded),0,0
+SSRI,Homicidality Group,121,83,1,Depression,21,17.4
+SSRI,Homicidality Group,121,83,2,Anxiety,19,15.7
+SSRI,Homicidality Group,121,83,3,Obsessive-Compulsive Disorder,11,9.1
+SSRI,Homicidality Group,121,83,4,Attention Deficit Hyperactivity Disorder,7,5.8
+SSRI,Homicidality Group,121,83,5,Autism Spectrum Disorder,5,4.1
+SSRI,Homicidality Group,121,83,6,Schizophrenia,4,3.3
+SSRI,Homicidality Group,121,83,7,Sleep Disorder,4,3.3
+SSRI,Homicidality Group,121,83,8,Mixed Anxiety and Depressive Disorder,4,3.3
+SSRI,Homicidality Group,121,83,9,Back Pain,3,2.5
+SSRI,Homicidality Group,121,83,10,Post-Traumatic Stress Disorder,3,2.5
+SSRI,Homicidality Group,121,83,11,Insomnia,3,2.5
+SSRI,Homicidality Group,121,83,12,Panic Attack,3,2.5
+SSRI,Homicidality Group,121,83,13,Major Depression,2,1.7
+SSRI,Homicidality Group,121,83,14,Epilepsy,2,1.7
+SSRI,Homicidality Group,121,83,15,Depression Suicidal,2,1.7
+SSRI,Homicidality Group,121,83,16,Hypertension,2,1.7
+SSRI,Homicidality Group,121,83,17,Bipolar Disorder,2,1.7
+SSRI,Homicidality Group,121,83,18,Affective Disorder,2,1.7
+SSRI,Homicidality Group,121,83,19,Intellectual Disability,2,1.7
+SSRI,Homicidality Group,121,83,20,Behaviour Disorder,2,1.7
+SSRI,Suicidality Group,1147,610,1,Depression,274,23.9
+SSRI,Suicidality Group,1147,610,2,Anxiety,132,11.5
+SSRI,Suicidality Group,1147,610,3,Major Depression,38,3.3
+SSRI,Suicidality Group,1147,610,4,Suicide Attempt,37,3.2
+SSRI,Suicidality Group,1147,610,5,Obsessive-Compulsive Disorder,28,2.4
+SSRI,Suicidality Group,1147,610,6,Insomnia,24,2.1
+SSRI,Suicidality Group,1147,610,7,Antidepressant Therapy,16,1.4
+SSRI,Suicidality Group,1147,610,8,Schizophrenia,15,1.3
+SSRI,Suicidality Group,1147,610,9,Generalised Anxiety Disorder,15,1.3
+SSRI,Suicidality Group,1147,610,10,Psychotic Disorder,13,1.1
+SSRI,Suicidality Group,1147,610,11,Bipolar Disorder,13,1.1
+SSRI,Suicidality Group,1147,610,12,Affective Disorder,12,1
+SSRI,Suicidality Group,1147,610,13,Mixed Anxiety and Depressive Disorder,12,1
+SSRI,Suicidality Group,1147,610,14,Adverse Drug Reaction,11,1
+SSRI,Suicidality Group,1147,610,15,Post-Traumatic Stress Disorder,10,0.9
+SSRI,Suicidality Group,1147,610,16,Sleep Disorder,10,0.9
+SSRI,Suicidality Group,1147,610,17,Depressed Mood,10,0.9
+SSRI,Suicidality Group,1147,610,18,Panic Attack,9,0.8
+SSRI,Suicidality Group,1147,610,19,Attention Deficit Hyperactivity Disorder,9,0.8
+SSRI,Suicidality Group,1147,610,20,Mental Disorder,8,0.7

@@ -1,0 +1,55 @@
+metric,value
+SSRI group,14288
+  Monopharmacy (0 co-drugs) Case Count,6271
+  Polypharmacy (>=1 co-drug) Case Count,8017
+SSRI drug,-
+  Fluoxetine,2610
+  Paroxetine,1204
+  Sertraline,5189
+  Fluvoxamine,252
+  Citalopram,2330
+  Escitalopram,2703
+Sex,-
+  Female,7048
+  Male,4740
+  Unknown,2500
+Age,-
+"  Median age, years (IQR)",42 (26-61)
+"  Mean age, years +/- SD",44.3 +/- 22.1
+Age recorded,9826
+  <18 years,1116
+  18-44 years,4081
+  45-64 years,2685
+  65-74 years,842
+  >=75 years,1102
+Top 5 reporting countries,-
+  United States,4503
+  United Kingdom,3170
+  France,1368
+  Eu,1235
+  Canada,654
+Reported outcomes,-
+  Other serious,8565
+  Hospitalization,4310
+  Disability,1808
+  Life-threatening,1650
+  Death,1633
+  Congenital anomaly,277
+  Required intervention,166
+Report source (rpsr_cod; a report may carry several),-
+  Consumer/non-health professional,1309
+  Foreign,149
+  Health professional,116
+  Not recorded,12864
+Top 10 indications for use,-
+  Depression,3240
+  Anxiety,1857
+  Antidepressant Therapy,769
+  Major Depression,381
+  Hypertension,373
+  Obsessive-Compulsive Disorder,320
+  Mixed Anxiety and Depressive Disorder,232
+  Insomnia,202
+  Pain,195
+  Adverse Drug Reaction,187
+  No indication recorded,5079

@@ -1,0 +1,18 @@
+outcome,category,n,n_cases,pct
+H-S,"SUM (non-exclusive, categories overlap)",24,47,51.1
+H-S,"ANY category (distinct cases, true union)",16,47,34
+H-S,Schizophrenia Spectrum & Psychotic Symptoms,9,47,19.1
+H-S,Depressive Symptoms,7,47,14.9
+H-S,"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",3,47,6.4
+H-S,Bipolar and Related Symptoms,2,47,4.3
+H-S,Akathisia/Extrapyramidal Symptoms,2,47,4.3
+H-S,Neurocognitive and Neurodevelopmental Symptoms,1,47,2.1
+Homicide,"SUM (non-exclusive, categories overlap)",345,334,103.3
+Homicide,"ANY category (distinct cases, true union)",173,334,51.8
+Homicide,Akathisia/Extrapyramidal Symptoms,80,334,24
+Homicide,Schizophrenia Spectrum & Psychotic Symptoms,67,334,20.1
+Homicide,Depressive Symptoms,60,334,18
+Homicide,"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",56,334,16.8
+Homicide,Neurocognitive and Neurodevelopmental Symptoms,43,334,12.9
+Homicide,Bipolar and Related Symptoms,33,334,9.9
+Homicide,Personality Symptoms,6,334,1.8

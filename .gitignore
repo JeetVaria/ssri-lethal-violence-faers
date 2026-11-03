@@ -1,0 +1,31 @@
+*.rds
+.Rhistory
+.RData
+.Rproj.user/
+*.log
+results/*
+!results/.gitkeep
+comparison_report.csv
+
+# A run writes wherever FAERS_RESULTS_DIR points, which need not be results/.
+# These are the folders our own runs used; add yours here, or a stray
+# `git add -A` sweeps a whole analysis into the repository. The two reference
+# folders are deliberately NOT ignored: they are the published output.
+two_year/
+twentytwo_year/
+full_run/
+rerun_v2/
+
+# faers_parse unpacks each quarterly zip into the working directory, so a full
+# run from the raw files leaves 88 of these beside run_all.R. The archive uses
+# aers_ascii_ up to 2012 Q3 and faers_ascii_ after it, so the pattern is loose.
+*aers_ascii_*/
+reconciliation_report.csv
+!expected_2004_2025/reconciliation_report.csv
+!expected_2024_2025/reconciliation_report.csv
+caselists/
+pipeline_log.txt
+
+# Python bytecode, left behind by running the figure scripts
+__pycache__/
+*.pyc

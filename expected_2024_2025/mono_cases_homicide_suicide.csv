@@ -1,0 +1,3 @@
+primaryid,caseid,year,quarter,sex,age_in_years,wt,reporter_country,event_dt,start_dt,fda_dt,occp_cod,i_f_code,ssri_drug,ssri_drug_roles,ssri_other_roles,role_cod,all_pts,all_outcomes,n_codrugs,codrug_names,polypharmacy
+235616751,23561675,2024,q1,Male,,,US,,2008,20240225,CN,I,fluoxetine,fluoxetine [PS],"",PS,Completed suicide; Homicide; Physical assault,DE; OT,0,,mono
+251603421,25160342,2025,q2,Male,,,US,,,20250404,CN,I,paroxetine,paroxetine [PS],"",PS,Completed suicide; Homicide,DE; OT,0,,mono

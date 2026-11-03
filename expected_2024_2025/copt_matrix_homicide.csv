@@ -1,0 +1,28 @@
+PT,category,broad_category,mono,poly,total,n_cases
+"TOTAL (>=1 PT, Psychosis)",Psychosis,,0,3,3,9
+"TOTAL BROAD (>=1 PT, Schizophrenia Spectrum & Psychotic Symptoms)",,Schizophrenia Spectrum & Psychotic Symptoms,0,2,2,9
+"TOTAL BROAD (>=1 PT, Neurocognitive and Neurodevelopmental Symptoms)",,Neurocognitive and Neurodevelopmental Symptoms,1,1,2,9
+Completed Suicide,Other,Other,2,3,5,9
+Drug Interaction,Other,Other,0,3,3,9
+Physical Assault,Other,Other,3,0,3,9
+Compulsive Sexual Behaviour,Other,Other,0,2,2,9
+Serotonin Syndrome,Other,Other,0,2,2,9
+Aggression,Other,Other,0,1,1,9
+Amnesia,Other,Neurocognitive and Neurodevelopmental Symptoms,0,1,1,9
+Cognitive Disorder,Other,Other,0,1,1,9
+Consciousness Fluctuating,Other,Other,0,1,1,9
+Death,Other,Other,0,1,1,9
+Delirium,Psychosis,Neurocognitive and Neurodevelopmental Symptoms,0,1,1,9
+Disorientation,Other,Other,0,1,1,9
+Drug Abuse,Other,Other,0,1,1,9
+Drug Ineffective,Other,Other,0,1,1,9
+Drug Level above Therapeutic,Other,Other,0,1,1,9
+Extra Dose Administered,Other,Other,0,1,1,9
+Homicidal Ideation,Other,Other,1,0,1,9
+Injury,Other,Other,1,0,1,9
+Memory Impairment,Other,Neurocognitive and Neurodevelopmental Symptoms,1,0,1,9
+Sexual Abuse,Other,Other,0,1,1,9
+Shared Psychotic Disorder,Psychosis,Schizophrenia Spectrum & Psychotic Symptoms,0,1,1,9
+Substance-Induced Psychotic Disorder,Psychosis,Schizophrenia Spectrum & Psychotic Symptoms,0,1,1,9
+Suicide Attempt,Other,Other,0,1,1,9
+Toxicity to Various Agents,Other,Other,0,1,1,9

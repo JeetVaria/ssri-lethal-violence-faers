@@ -1,0 +1,30 @@
+outcome,term,n,n_exclusive,subsumes,n_cases,pct
+H-S,Gun Shot Wound,7,7,"",47,14.9
+H-S,Aggression,5,5,"",47,10.6
+H-S,Physical Assault,3,3,"",47,6.4
+H-S,Drug Interaction,2,2,"",47,4.3
+H-S,Overdose,2,0,Intentional Overdose,47,4.3
+H-S,Intentional Overdose,2,2,"",47,4.3
+H-S,Toxicity to Various Agents,2,2,"",47,4.3
+H-S,Condition Aggravated,2,2,"",47,4.3
+H-S,Irritability,1,1,"",47,2.1
+H-S,Sexual Abuse,1,1,"",47,2.1
+H-S,Alcohol Use,1,1,"",47,2.1
+Homicide,Aggression,91,91,"",334,27.2
+Homicide,Drug Interaction,51,51,"",334,15.3
+Homicide,Overdose,27,16,Intentional Overdose,334,8.1
+Homicide,Physical Assault,21,21,"",334,6.3
+Homicide,Withdrawal Syndrome,20,6,Drug Withdrawal Syndrome,334,6
+Homicide,Anger,19,19,"",334,5.7
+Homicide,Toxicity to Various Agents,17,17,"",334,5.1
+Homicide,Drug Withdrawal Syndrome,14,14,"",334,4.2
+Homicide,Alcohol Use,14,14,"",334,4.2
+Homicide,Drug Ineffective,12,12,"",334,3.6
+Homicide,Imprisonment,11,11,"",334,3.3
+Homicide,Intentional Overdose,11,11,"",334,3.3
+Homicide,Condition Aggravated,11,11,"",334,3.3
+Homicide,Gun Shot Wound,10,10,"",334,3
+Homicide,Irritability,10,10,"",334,3
+Homicide,Child Abuse,4,4,"",334,1.2
+Homicide,Stab Wound,4,4,"",334,1.2
+Homicide,Sexual Abuse,3,3,"",334,0.9

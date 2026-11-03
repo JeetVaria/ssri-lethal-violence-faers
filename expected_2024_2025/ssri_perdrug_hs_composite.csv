@@ -1,0 +1,7 @@
+expected,ror,ror_ci_low,ror_ci_high,prr,prr_ci_low,prr_ci_high,chisq,chisq_pvalue,bcpnn_mcmc_ic,bcpnn_mcmc_ic_ci_low,bcpnn_mcmc_ic_ci_high,ebgm,ebgm_ci_low,ebgm_ci_high,a,b,c,d,ror_signal,prr_signal,ic_signal,ebgm_signal,full_consensus,drug,pt,n_group
+0.0103289989433553,399.444044879172,105.912803835183,1506.48022913006,398.986063218391,105.90895852341,1503.08227804283,600.669252295951,1.19737853209614e-132,2.77785564158746,0.742403963981621,3.97254992771815,173.44806,55.665665,437.021222,3,2607,8,2776935,TRUE,TRUE,TRUE,TRUE,TRUE,fluoxetine,Homicide + Completed suicide (co-reported),2610
+,,,,,,,,,,,,,,,1,1203,10,2778339,FALSE,FALSE,FALSE,FALSE,FALSE,paroxetine,Homicide + Completed suicide (co-reported),1204
+,,,,,,,,,,,,,,,0,5189,11,2774353,FALSE,FALSE,FALSE,FALSE,FALSE,sertraline,Homicide + Completed suicide (co-reported),5189
+,,,,,,,,,,,,,,,0,252,11,2779290,FALSE,FALSE,FALSE,FALSE,FALSE,fluvoxamine,Homicide + Completed suicide (co-reported),252
+,,,,,,,,,,,,,,,0,2330,11,2777212,FALSE,FALSE,FALSE,FALSE,FALSE,citalopram,Homicide + Completed suicide (co-reported),2330
+,,,,,,,,,,,,,,,1,2702,10,2776840,FALSE,FALSE,FALSE,FALSE,FALSE,escitalopram,Homicide + Completed suicide (co-reported),2703

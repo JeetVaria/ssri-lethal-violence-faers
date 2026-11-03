@@ -1,0 +1,8 @@
+outcome,category,n,n_cases,pct
+H-S,Schizophrenia Spectrum & Psychotic Symptoms,2,5,40
+H-S,"SUM (non-exclusive, categories overlap)",2,5,40
+H-S,"ANY category (distinct cases, true union)",2,5,40
+Homicide,"SUM (non-exclusive, categories overlap)",4,9,44.4
+Homicide,"ANY category (distinct cases, true union)",4,9,44.4
+Homicide,Schizophrenia Spectrum & Psychotic Symptoms,2,9,22.2
+Homicide,Neurocognitive and Neurodevelopmental Symptoms,2,9,22.2

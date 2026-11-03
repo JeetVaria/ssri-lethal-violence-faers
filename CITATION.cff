@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "A 22-year disproportionality analysis of SSRIs and lethal violence in the FDA Adverse Event Reporting System: analysis code"
+authors:
+  - family-names: "Varia"
+    given-names: "Jeet"
+    email: "research@healthfreedomdefense.org"
+    orcid: "https://orcid.org/0000-0002-4862-2656"
+  - family-names: "Nicholson"
+    given-names: "Thomas"
+    orcid: "https://orcid.org/0009-0000-4400-7253"
+  - family-names: "Manookian"
+    given-names: "Leslie"
+    orcid: "https://orcid.org/0009-0005-3715-4147"
+license: MIT
+repository-code: "https://github.com/JeetVaria/ssri-lethal-violence-faers"
+preferred-citation:
+  type: article
+  title: "A 22-year disproportionality analysis of SSRIs and lethal violence in the FDA Adverse Event Reporting System"
+  authors:
+    - family-names: "Varia"
+      given-names: "Jeet"
+      orcid: "https://orcid.org/0000-0002-4862-2656"
+    - family-names: "Nicholson"
+      given-names: "Thomas"
+      orcid: "https://orcid.org/0009-0000-4400-7253"
+    - family-names: "Manookian"
+      given-names: "Leslie"
+      orcid: "https://orcid.org/0009-0005-3715-4147"
+  year: 2026

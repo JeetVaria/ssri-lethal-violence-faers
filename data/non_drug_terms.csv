@@ -1,0 +1,17 @@
+term,treatment,note
+NO CONCURRENT MEDICATION,exclude,the report states that no co-medication was given
+NO CONCURRENT MEDICATIONS,exclude,the report states that no co-medication was given
+NO CONCOMITANT MEDICATION,exclude,the report states that no co-medication was given
+NO CONCOMITANT MEDICATIONS,exclude,the report states that no co-medication was given
+NONE,exclude,the report states that no co-medication was given
+NO MEDICATION,exclude,the report states that no co-medication was given
+NO MEDICATIONS,exclude,the report states that no co-medication was given
+UNKNOWN,keep,a co-medication was given but not named; counted as a co-drug
+UNKNOWN DRUG,keep,a co-medication was given but not named; counted as a co-drug
+UNKNOWN DRUGS,keep,a co-medication was given but not named; counted as a co-drug
+UNKNOWN MEDICATION,keep,a co-medication was given but not named; counted as a co-drug
+UNKNOWN MEDICATIONS,keep,a co-medication was given but not named; counted as a co-drug
+NO SUBJECT DRUG,exclude,the report states that no co-medication was given
+DRUG UNSPECIFIED,keep,a co-medication was given but not named; counted as a co-drug
+UNSPECIFIED DRUG,keep,a co-medication was given but not named; counted as a co-drug
+UNSPECIFIED INGREDIENT,keep,a co-medication was given but not named; counted as a co-drug

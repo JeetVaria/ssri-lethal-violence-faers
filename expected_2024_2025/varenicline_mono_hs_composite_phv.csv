@@ -1,0 +1,2 @@
+expected,ror,ror_ci_low,ror_ci_high,prr,prr_ci_low,prr_ci_high,chisq,chisq_pvalue,bcpnn_mcmc_ic,bcpnn_mcmc_ic_ci_low,bcpnn_mcmc_ic_ci_high,ebgm,ebgm_ci_low,ebgm_ci_high,a,b,c,d,ror_signal,prr_signal,ic_signal,ebgm_signal,full_consensus,pt,drug_group,n_group
+,,,,,,,,,,,,,,,0,1714,3,1738809,FALSE,FALSE,FALSE,FALSE,FALSE,"Homicide + Completed suicide (co-reported, mono)",varenicline_mono,1714

@@ -1,0 +1,61 @@
+broad_category,PT,H-S,Homicide
+Bipolar and Related Symptoms,Bipolar Disorder,0,4
+Bipolar and Related Symptoms,Bipolar I Disorder,0,1
+Bipolar and Related Symptoms,Euphoric Mood,1,4
+Bipolar and Related Symptoms,Hypomania,0,1
+Bipolar and Related Symptoms,Mania,1,19
+Bipolar and Related Symptoms,Mood Swings,0,7
+Depressive Symptoms,Activation Syndrome,0,1
+Depressive Symptoms,Affect Lability,0,6
+Depressive Symptoms,Affective Disorder,0,1
+Depressive Symptoms,Crying,0,3
+Depressive Symptoms,Decreased Interest,0,3
+Depressive Symptoms,Depressed Mood,0,2
+Depressive Symptoms,Depression,4,32
+Depressive Symptoms,Dysphoria,0,1
+Depressive Symptoms,Emotional Disorder,1,13
+Depressive Symptoms,Emotional Distress,1,4
+Depressive Symptoms,Feeling of Despair,1,2
+Depressive Symptoms,Major Depression,1,10
+Schizophrenia Spectrum & Psychotic Symptoms,Blunted Affect,0,3
+Schizophrenia Spectrum & Psychotic Symptoms,Delusion,1,14
+Schizophrenia Spectrum & Psychotic Symptoms,Delusion of Grandeur,0,1
+Schizophrenia Spectrum & Psychotic Symptoms,Emotional Poverty,0,4
+Schizophrenia Spectrum & Psychotic Symptoms,Flat Affect,0,1
+Schizophrenia Spectrum & Psychotic Symptoms,Formication,0,1
+Schizophrenia Spectrum & Psychotic Symptoms,Hallucination,3,8
+Schizophrenia Spectrum & Psychotic Symptoms,"Hallucination, Auditory",1,14
+Schizophrenia Spectrum & Psychotic Symptoms,"Hallucination, Visual",0,1
+Schizophrenia Spectrum & Psychotic Symptoms,"Hallucinations, Mixed",0,1
+Schizophrenia Spectrum & Psychotic Symptoms,Paranoia,1,10
+Schizophrenia Spectrum & Psychotic Symptoms,Psychotic Behaviour,0,1
+Schizophrenia Spectrum & Psychotic Symptoms,Psychotic Disorder,2,23
+Schizophrenia Spectrum & Psychotic Symptoms,Schizophrenia,0,2
+Schizophrenia Spectrum & Psychotic Symptoms,Shared Psychotic Disorder,1,1
+Schizophrenia Spectrum & Psychotic Symptoms,Substance-Induced Psychotic Disorder,1,1
+Schizophrenia Spectrum & Psychotic Symptoms,Tangentiality,0,1
+"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",Acute Stress Disorder,0,1
+"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",Anxiety,1,25
+"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",Anxiety Disorder,0,1
+"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",Depersonalisation/Derealisation Disorder,0,3
+"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",Derealisation,0,4
+"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",Dissociation,1,17
+"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",Dissociative Amnesia,0,1
+"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",Dissociative Disorder,0,3
+"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",Obsessive-Compulsive Disorder,0,5
+"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",Panic Attack,1,5
+Personality Symptoms,Borderline Personality Disorder,0,1
+Personality Symptoms,Obsessive-Compulsive Personality Disorder,0,2
+Personality Symptoms,Personality Disorder,0,3
+Neurocognitive and Neurodevelopmental Symptoms,Amnesia,0,25
+Neurocognitive and Neurodevelopmental Symptoms,Anterograde Amnesia,0,1
+Neurocognitive and Neurodevelopmental Symptoms,Confusional State,0,9
+Neurocognitive and Neurodevelopmental Symptoms,Delirium,1,15
+Neurocognitive and Neurodevelopmental Symptoms,Memory Impairment,0,7
+Akathisia/Extrapyramidal Symptoms,Akathisia,1,44
+Akathisia/Extrapyramidal Symptoms,Dyskinesia,0,2
+Akathisia/Extrapyramidal Symptoms,Gait Disturbance,0,3
+Akathisia/Extrapyramidal Symptoms,Movement Disorder,0,1
+Akathisia/Extrapyramidal Symptoms,Psychomotor Hyperactivity,0,3
+Akathisia/Extrapyramidal Symptoms,Restlessness,1,27
+Akathisia/Extrapyramidal Symptoms,Tremor,0,17

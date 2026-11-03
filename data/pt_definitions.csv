@@ -1,0 +1,11 @@
+pt,group,case_file
+Homicidal Ideation,Homicidality,cases_homicidal_ideation.csv
+Homicide,Homicidality,cases_homicide.csv
+Aggression,Homicidality,cases_aggression.csv
+Violence-Related Symptom,Homicidality,cases_violence_related.csv
+Suicidal Ideation,Suicidality,cases_suicidal_ideation.csv
+Suicide Attempt,Suicidality,cases_suicide_attempt.csv
+Completed Suicide,Suicidality,cases_completed_suicide.csv
+Intentional Self-Injury,Suicidality,cases_intentional_self_injury.csv
+Serotonin Syndrome,ADR benchmark,cases_serotonin_syndrome.csv
+Ingrowing Nail,QA (expected null),cases_ingrowing_nail.csv

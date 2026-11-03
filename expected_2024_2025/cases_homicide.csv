@@ -1,0 +1,10 @@
+primaryid,caseid,year,quarter,sex,age_in_years,wt,reporter_country,event_dt,start_dt,fda_dt,occp_cod,i_f_code,ssri_drug,ssri_drug_roles,ssri_other_roles,role_cod,all_pts,all_outcomes,n_codrugs,codrug_names,polypharmacy,drug_group
+235616751,23561675,2024,q1,Male,,,US,,2008,20240225,CN,I,fluoxetine,fluoxetine [PS],"",PS,Completed suicide; Homicide; Physical assault,DE; OT,0,,mono,ssri
+235616771,23561677,2024,q1,Male,,,US,19980101,1998,20240225,CN,I,fluoxetine,fluoxetine [PS],"",PS,Homicide; Physical assault,OT,0,,mono,ssri
+236949161,23694916,2024,q2,Male,14,,US,,,20240402,HP,I,fluoxetine,fluoxetine [PS],"",PS,Completed suicide; Compulsive sexual behaviour; Drug abuse; Drug interaction; Drug level above therapeutic; Homicide; Serotonin syndrome; Sexual abuse; Shared psychotic disorder,DE; OT,3,ALCOHOL [SS]; DEXTROMETHORPHAN [SS]; DRONABINOL [SS],poly,ssri
+181775102,18177510,2025,q2,Female,62,,US,,,20250427,HP,F,paroxetine,paroxetine [PS],"",PS,Amnesia; Cognitive disorder; Consciousness fluctuating; Delirium; Disorientation; Drug ineffective; Drug interaction; Extra dose administered; Homicide; Suicide attempt,OT,1,ZOLPIDEM [SS],poly,ssri
+249779191,24977919,2025,q1,Male,14,,NL,,,20250217,CN,I,fluoxetine,fluoxetine [PS],"",PS,Completed suicide; Compulsive sexual behaviour; Drug interaction; Homicide; Serotonin syndrome; Substance-induced psychotic disorder; Toxicity to various agents,DE,1,DEXTROMETHORPHAN [I],poly,ssri
+251077372,25107737,2025,q1,,,,US,,,20250325,CN,F,escitalopram,escitalopram [PS],citalopram [SS]; fluoxetine [SS]; fluvoxamine [SS]; paroxetine [SS],PS; SS,Aggression; Completed suicide; Death; Homicide,DE; LT; OT,5,EFFEXOR [SS],poly,ssri
+251603421,25160342,2025,q2,Male,,,US,,,20250404,CN,I,paroxetine,paroxetine [PS],"",PS,Completed suicide; Homicide,DE; OT,0,,mono,ssri
+256913261,25691326,2025,q3,Male,26,,TR,20250309,,20250818,CN,I,fluoxetine,fluoxetine [PS],"",PS,Homicide; Injury; Memory impairment,OT,0,,mono,ssri
+260549411,26054941,2025,q4,Male,17,,US,20220901,20221012,20251117,CN,I,fluoxetine,"fluoxetine [PS, SS]","",PS; SS,Homicidal ideation; Homicide; Physical assault,OT,0,,mono,ssri

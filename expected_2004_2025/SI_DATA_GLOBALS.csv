@@ -1,0 +1,300 @@
+block,metric,value
+All FAERS reports,Pipeline: years,2004-2025
+All FAERS reports,Pipeline: raw_case_count,"23,992,742"
+All FAERS reports,Pipeline: dedup_removed_n,"4,299,374"
+All FAERS reports,Pipeline: post_dedup_n,"19,693,368"
+All FAERS reports,Pipeline: manual_blacklist_removed_n,"6,227"
+All FAERS reports,Pipeline: final_count,"19,687,141"
+All FAERS reports,Pipeline: fda_deletion_list_n,NA
+All FAERS reports,Deduplicated database (rows per FAERS file): DEMO,"19,693,368"
+All FAERS reports,Deduplicated database (rows per FAERS file): DRUG,"72,377,566"
+All FAERS reports,Deduplicated database (rows per FAERS file): INDI,"47,095,599"
+All FAERS reports,Deduplicated database (rows per FAERS file): OUTC,"14,353,583"
+All FAERS reports,Deduplicated database (rows per FAERS file): REAC,"58,889,834"
+All FAERS reports,Deduplicated database (rows per FAERS file): RPSR,"2,173,208"
+All FAERS reports,Deduplicated database (rows per FAERS file): THER,"25,300,727"
+All FAERS reports,Monopharmacy (final count): n_monopharmacy,"11,273,546"
+All FAERS reports,Monopharmacy (final count): n_polypharmacy,"8,413,585"
+All FAERS reports,Monopharmacy (final count): n_no_drug_entry,10
+All FAERS reports,Monopharmacy (final count): definition,"exactly one distinct drug named on the report, counted by canonical name, role ignored"
+All FAERS reports,Sex: female,"10,403,145 (52.8%)"
+All FAERS reports,Sex: male,"6,822,411 (34.7%)"
+All FAERS reports,Sex: unknown,"2,461,585 (12.5%)"
+All FAERS reports,Age: recorded,"11,459,729 (58.2%)"
+All FAERS reports,Age: median (IQR),58 (42-70)
+All FAERS reports,Age: mean (SD),54.9 (20.6)
+All FAERS reports,Age: <18,"696,495"
+All FAERS reports,Age: 18-44,"2,482,546"
+All FAERS reports,Age: 45-64,"4,094,946"
+All FAERS reports,Age: 65-74,"2,263,580"
+All FAERS reports,Age: >=75,"1,922,162"
+All FAERS reports,Weight (kg): recorded,"3,916,061 (19.9%)"
+All FAERS reports,Weight (kg): median (IQR),74.8 (60-93)
+All FAERS reports,Weight (kg): mean (SD),81.6 (38.1)
+All FAERS reports,Reporter country (top 5): UNITED STATES,"13,385,311 (68.0%)"
+All FAERS reports,Reporter country (top 5): CANADA,"699,217 (3.6%)"
+All FAERS reports,Reporter country (top 5): UNITED KINGDOM,"653,622 (3.3%)"
+All FAERS reports,Reporter country (top 5): JAPAN,"604,120 (3.1%)"
+All FAERS reports,Reporter country (top 5): FRANCE,"523,197 (2.7%)"
+All FAERS reports,Outcomes (non-exclusive): Other serious (OT),"7,275,791 (37.0%)"
+All FAERS reports,Outcomes (non-exclusive): Hospitalization (HO),"4,204,016 (21.4%)"
+All FAERS reports,Outcomes (non-exclusive): Death (DE),"1,806,788 (9.2%)"
+All FAERS reports,Outcomes (non-exclusive): Life-threatening (LT),"539,166 (2.7%)"
+All FAERS reports,Outcomes (non-exclusive): Disability (DS),"362,586 (1.8%)"
+All FAERS reports,Outcomes (non-exclusive): Required intervention (RI),"92,119 (0.5%)"
+All FAERS reports,Outcomes (non-exclusive): Congenital anomaly (CA),"64,124 (0.3%)"
+All FAERS reports,Report source: Health professional (HP),"996,444 (5.1%)"
+All FAERS reports,Report source: Consumer/non-health professional (CSM),"505,338 (2.6%)"
+All FAERS reports,Report source: Foreign (FGN),"224,891 (1.1%)"
+All FAERS reports,Report source: Other health professional (OTH),"169,282 (0.9%)"
+All FAERS reports,Report source: Literature (LIT),"104,942 (0.5%)"
+All FAERS reports,Report source: Consumer reporter (CR),"89,989 (0.5%)"
+All FAERS reports,Report source: Study (SDY),"67,498 (0.3%)"
+All FAERS reports,Report source: Distributor (DT),"8,596 (0.0%)"
+All FAERS reports,Report source: User facility (UF),"5,308 (0.0%)"
+All FAERS reports,Report source: Not recorded,"18,200,992 (92.5%)"
+SSRI group,SSRI group,159634
+SSRI group,  Monopharmacy (0 co-drugs) Case Count,65992
+SSRI group,  Polypharmacy (>=1 co-drug) Case Count,93642
+SSRI group,SSRI drug,-
+SSRI group,  Fluoxetine,24431
+SSRI group,  Paroxetine,38227
+SSRI group,  Sertraline,49164
+SSRI group,  Fluvoxamine,1475
+SSRI group,  Citalopram,24139
+SSRI group,  Escitalopram,22198
+SSRI group,Sex,-
+SSRI group,  Female,89877
+SSRI group,  Male,49487
+SSRI group,  Unknown,20270
+SSRI group,Age,-
+SSRI group,"  Median age, years (IQR)",44 (28-61)
+SSRI group,"  Mean age, years +/- SD",44.8 +/- 22.9
+SSRI group,Age recorded,102823
+SSRI group,  <18 years,12336
+SSRI group,  18-44 years,39576
+SSRI group,  45-64 years,28773
+SSRI group,  65-74 years,9761
+SSRI group,  >=75 years,12377
+SSRI group,Top 5 reporting countries,-
+SSRI group,  United States,63114
+SSRI group,  United Kingdom,26215
+SSRI group,  France,9674
+SSRI group,  Germany,6800
+SSRI group,  Italy,4661
+SSRI group,Reported outcomes,-
+SSRI group,  Other serious,76208
+SSRI group,  Hospitalization,43411
+SSRI group,  Death,15036
+SSRI group,  Congenital anomaly,11691
+SSRI group,  Life-threatening,10103
+SSRI group,  Disability,8470
+SSRI group,  Required intervention,1943
+SSRI group,Report source (rpsr_cod; a report may carry several),-
+SSRI group,  Health professional,16570
+SSRI group,  Foreign,11524
+SSRI group,  Consumer/non-health professional,6750
+SSRI group,  Other health professional,6175
+SSRI group,  Literature,3955
+SSRI group,  Consumer reporter,1845
+SSRI group,  Study,275
+SSRI group,  Distributor,35
+SSRI group,  User facility,27
+SSRI group,  Not recorded,135615
+SSRI group,Top 10 indications for use,-
+SSRI group,  Depression,50375
+SSRI group,  Anxiety,17285
+SSRI group,  Hypertension,3768
+SSRI group,  Major Depression,3694
+SSRI group,  Obsessive-Compulsive Disorder,3194
+SSRI group,  Ill-Defined Disorder,2658
+SSRI group,  Insomnia,2433
+SSRI group,  Pain,1961
+SSRI group,  Bipolar Disorder,1874
+SSRI group,  Panic Disorder,1661
+SSRI group,  No indication recorded,62282
+SSRI Homicide (unrestricted) group,SSRI Homicide (unrestricted) group,334
+SSRI Homicide (unrestricted) group,  Monopharmacy (0 co-drugs),138
+SSRI Homicide (unrestricted) group,  Polypharmacy (>=1 co-drug),196
+SSRI Homicide (unrestricted) group,SSRI drug,""
+SSRI Homicide (unrestricted) group,  Fluoxetine,90
+SSRI Homicide (unrestricted) group,  Paroxetine,115
+SSRI Homicide (unrestricted) group,  Sertraline,74
+SSRI Homicide (unrestricted) group,  Fluvoxamine,4
+SSRI Homicide (unrestricted) group,  Citalopram,24
+SSRI Homicide (unrestricted) group,  Escitalopram,27
+SSRI Homicide (unrestricted) group,Top 10 co-drugs,""
+SSRI Homicide (unrestricted) group,  Alcohol,32
+SSRI Homicide (unrestricted) group,  Zolpidem,31
+SSRI Homicide (unrestricted) group,  Alprazolam,28
+SSRI Homicide (unrestricted) group,  Venlafaxine,14
+SSRI Homicide (unrestricted) group,  Lorazepam,13
+SSRI Homicide (unrestricted) group,  Zopiclone,12
+SSRI Homicide (unrestricted) group,  Quetiapine,9
+SSRI Homicide (unrestricted) group,  Cannabis,8
+SSRI Homicide (unrestricted) group,  Diazepam,8
+SSRI Homicide (unrestricted) group,  Valproate,8
+SSRI Homicide (unrestricted) group,Top 10 co-drug classes,""
+SSRI Homicide (unrestricted) group,  Anti-Anxiety Agents,72
+SSRI Homicide (unrestricted) group,  Z-drugs (Sedative-Hypnotics),40
+SSRI Homicide (unrestricted) group,  Alcohol,32
+SSRI Homicide (unrestricted) group,  Antidepressants,29
+SSRI Homicide (unrestricted) group,  Antipsychotics,20
+SSRI Homicide (unrestricted) group,  Mood Stabilizers,19
+SSRI Homicide (unrestricted) group,  Cardiovascular Drugs,13
+SSRI Homicide (unrestricted) group,  Gastrointestinal Drugs,13
+SSRI Homicide (unrestricted) group,  Cannabis,12
+SSRI Homicide (unrestricted) group,  Other,24
+SSRI Homicide (unrestricted) group,Substance Use,""
+SSRI Homicide (unrestricted) group,  Alcohol,32
+SSRI Homicide (unrestricted) group,  Cannabis,12
+SSRI Homicide (unrestricted) group,  Cocaine,2
+SSRI Homicide (unrestricted) group,Sex,""
+SSRI Homicide (unrestricted) group,  Female,67
+SSRI Homicide (unrestricted) group,  Male,245
+SSRI Homicide (unrestricted) group,  Unknown,22
+SSRI Homicide (unrestricted) group,Age,""
+SSRI Homicide (unrestricted) group,"  Median age, years (IQR)",33 (17.5-45.5)
+SSRI Homicide (unrestricted) group,"  Mean age, years +/- SD",34.4 +/- 17.3
+SSRI Homicide (unrestricted) group,  Age recorded,247
+SSRI Homicide (unrestricted) group,    <18 years,62
+SSRI Homicide (unrestricted) group,    18-44 years,109
+SSRI Homicide (unrestricted) group,    45-64 years,63
+SSRI Homicide (unrestricted) group,    65-74 years,8
+SSRI Homicide (unrestricted) group,    >=75 years,5
+SSRI Homicide (unrestricted) group,Top reporting countries,""
+SSRI Homicide (unrestricted) group,  United States,141
+SSRI Homicide (unrestricted) group,  United Kingdom,54
+SSRI Homicide (unrestricted) group,  Australia,27
+SSRI Homicide (unrestricted) group,  Canada,12
+SSRI Homicide (unrestricted) group,  Denmark,9
+SSRI Homicide (unrestricted) group,  France,8
+SSRI Homicide (unrestricted) group,  Netherlands,8
+SSRI Homicide (unrestricted) group,  Japan,6
+SSRI Homicide (unrestricted) group,  Other/not recorded,69
+SSRI Homicide (unrestricted) group,Report by (reporter occupation),""
+SSRI Homicide (unrestricted) group,  Health professional,53
+SSRI Homicide (unrestricted) group,  Other health professional,92
+SSRI Homicide (unrestricted) group,  Consumer/non-health professional,121
+SSRI Homicide (unrestricted) group,  Lawyer/legal,22
+SSRI Homicide (unrestricted) group,  Unknown/other,46
+SSRI Homicide (unrestricted) group,Report source (rpsr_cod; a report may carry several),""
+SSRI Homicide (unrestricted) group,  Other health professional,36
+SSRI Homicide (unrestricted) group,  Health professional,59
+SSRI Homicide (unrestricted) group,  Consumer/non-health professional,34
+SSRI Homicide (unrestricted) group,  Foreign,39
+SSRI Homicide (unrestricted) group,  Literature,20
+SSRI Homicide (unrestricted) group,  Consumer reporter,9
+SSRI Homicide (unrestricted) group,  Study,2
+SSRI Homicide (unrestricted) group,  Not recorded,232
+SSRI Homicide (unrestricted) group,Top 10 indications for use,""
+SSRI Homicide (unrestricted) group,  Indication unknown / not recorded,119
+SSRI Homicide (unrestricted) group,  Depression,120
+SSRI Homicide (unrestricted) group,  Anxiety,35
+SSRI Homicide (unrestricted) group,  Insomnia,24
+SSRI Homicide (unrestricted) group,  Major Depression,18
+SSRI Homicide (unrestricted) group,  Emotional Distress,13
+SSRI Homicide (unrestricted) group,  Ill-Defined Disorder,11
+SSRI Homicide (unrestricted) group,  Panic Disorder,7
+SSRI Homicide (unrestricted) group,  Mental Disorder,6
+SSRI Homicide (unrestricted) group,  Asthma,4
+SSRI Homicide (unrestricted) group,  Bipolar Disorder,4
+SSRI Homicide (unrestricted) group,Indications by category,""
+SSRI Homicide (unrestricted) group,  Depressive Symptoms,152
+SSRI Homicide (unrestricted) group,"  Anxiety, OCD, Trauma-Related and Dissociative Symptoms",49
+SSRI Homicide (unrestricted) group,  Bipolar and Related Symptoms,4
+SSRI Homicide (unrestricted) group,  Schizophrenia Spectrum & Psychotic Symptoms,4
+SSRI Homicide (unrestricted) group,  Akathisia/Extrapyramidal Symptoms,1
+SSRI Homicide (unrestricted) group,  Neurocognitive and Neurodevelopmental Symptoms,1
+SSRI Homicide (unrestricted) group,  Personality Symptoms,1
+SSRI Homicide (unrestricted) group,  Other,67
+SSRI H-S (unrestricted) group,SSRI H-S (unrestricted) group,47
+SSRI H-S (unrestricted) group,  Monopharmacy (0 co-drugs),20
+SSRI H-S (unrestricted) group,  Polypharmacy (>=1 co-drug),27
+SSRI H-S (unrestricted) group,SSRI drug,""
+SSRI H-S (unrestricted) group,  Fluoxetine,15
+SSRI H-S (unrestricted) group,  Paroxetine,10
+SSRI H-S (unrestricted) group,  Sertraline,9
+SSRI H-S (unrestricted) group,  Fluvoxamine,3
+SSRI H-S (unrestricted) group,  Citalopram,5
+SSRI H-S (unrestricted) group,  Escitalopram,5
+SSRI H-S (unrestricted) group,Top 10 co-drugs,""
+SSRI H-S (unrestricted) group,  Alprazolam,3
+SSRI H-S (unrestricted) group,  Zolpidem,3
+SSRI H-S (unrestricted) group,  Alcohol,2
+SSRI H-S (unrestricted) group,  Caffeine,2
+SSRI H-S (unrestricted) group,  Cocaine,2
+SSRI H-S (unrestricted) group,  Dextromethorphan,2
+SSRI H-S (unrestricted) group,  Methyltestosterone,2
+SSRI H-S (unrestricted) group,  Amphetamine,1
+SSRI H-S (unrestricted) group,  Bromazepam,1
+SSRI H-S (unrestricted) group,  Carbon Monoxide,1
+SSRI H-S (unrestricted) group,Top 10 co-drug classes,""
+SSRI H-S (unrestricted) group,  Anti-Anxiety Agents,7
+SSRI H-S (unrestricted) group,  Stimulants,3
+SSRI H-S (unrestricted) group,  Z-drugs (Sedative-Hypnotics),3
+SSRI H-S (unrestricted) group,  Alcohol,2
+SSRI H-S (unrestricted) group,  Antidepressants,2
+SSRI H-S (unrestricted) group,  Antipsychotics,2
+SSRI H-S (unrestricted) group,  Cocaine,2
+SSRI H-S (unrestricted) group,  Hormonal Therapies,2
+SSRI H-S (unrestricted) group,  Analgesics,1
+SSRI H-S (unrestricted) group,  Other,5
+SSRI H-S (unrestricted) group,Substance Use,""
+SSRI H-S (unrestricted) group,  Alcohol,2
+SSRI H-S (unrestricted) group,  Cocaine,2
+SSRI H-S (unrestricted) group,  Cannabis,1
+SSRI H-S (unrestricted) group,Sex,""
+SSRI H-S (unrestricted) group,  Female,12
+SSRI H-S (unrestricted) group,  Male,31
+SSRI H-S (unrestricted) group,  Unknown,4
+SSRI H-S (unrestricted) group,Age,""
+SSRI H-S (unrestricted) group,"  Median age, years (IQR)",40 (23.5-43)
+SSRI H-S (unrestricted) group,"  Mean age, years +/- SD",37.2 +/- 16.6
+SSRI H-S (unrestricted) group,  Age recorded,31
+SSRI H-S (unrestricted) group,    <18 years,5
+SSRI H-S (unrestricted) group,    18-44 years,19
+SSRI H-S (unrestricted) group,    45-64 years,5
+SSRI H-S (unrestricted) group,    65-74 years,1
+SSRI H-S (unrestricted) group,    >=75 years,1
+SSRI H-S (unrestricted) group,Top reporting countries,""
+SSRI H-S (unrestricted) group,  United States,30
+SSRI H-S (unrestricted) group,  France,4
+SSRI H-S (unrestricted) group,  Italy,2
+SSRI H-S (unrestricted) group,  Netherlands,2
+SSRI H-S (unrestricted) group,  United Kingdom,2
+SSRI H-S (unrestricted) group,  Canada,1
+SSRI H-S (unrestricted) group,  Denmark,1
+SSRI H-S (unrestricted) group,  Other/not recorded,5
+SSRI H-S (unrestricted) group,Report by (reporter occupation),""
+SSRI H-S (unrestricted) group,  Health professional,5
+SSRI H-S (unrestricted) group,  Other health professional,2
+SSRI H-S (unrestricted) group,  Consumer/non-health professional,31
+SSRI H-S (unrestricted) group,  Lawyer/legal,3
+SSRI H-S (unrestricted) group,  Unknown/other,6
+SSRI H-S (unrestricted) group,Report source (rpsr_cod; a report may carry several),""
+SSRI H-S (unrestricted) group,  Other health professional,3
+SSRI H-S (unrestricted) group,  Health professional,3
+SSRI H-S (unrestricted) group,  Consumer/non-health professional,6
+SSRI H-S (unrestricted) group,  Foreign,3
+SSRI H-S (unrestricted) group,  Literature,2
+SSRI H-S (unrestricted) group,  Consumer reporter,1
+SSRI H-S (unrestricted) group,  Not recorded,37
+SSRI H-S (unrestricted) group,Top 10 indications for use,""
+SSRI H-S (unrestricted) group,  Indication unknown / not recorded,24
+SSRI H-S (unrestricted) group,  Depression,13
+SSRI H-S (unrestricted) group,  Anxiety,4
+SSRI H-S (unrestricted) group,  Antidepressant Therapy,1
+SSRI H-S (unrestricted) group,  Bipolar Disorder,1
+SSRI H-S (unrestricted) group,  Covid-19,1
+SSRI H-S (unrestricted) group,  Ill-Defined Disorder,1
+SSRI H-S (unrestricted) group,  Insomnia,1
+SSRI H-S (unrestricted) group,  Major Depression,1
+SSRI H-S (unrestricted) group,  Medical Diet,1
+SSRI H-S (unrestricted) group,  Persistent Depressive Disorder,1
+SSRI H-S (unrestricted) group,Indications by category,""
+SSRI H-S (unrestricted) group,  Depressive Symptoms,15
+SSRI H-S (unrestricted) group,"  Anxiety, OCD, Trauma-Related and Dissociative Symptoms",4
+SSRI H-S (unrestricted) group,  Schizophrenia Spectrum & Psychotic Symptoms,2
+SSRI H-S (unrestricted) group,  Bipolar and Related Symptoms,1
+SSRI H-S (unrestricted) group,  Other,5

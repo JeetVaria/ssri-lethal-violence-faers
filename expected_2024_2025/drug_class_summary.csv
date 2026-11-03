@@ -1,0 +1,14 @@
+outcome,class,type,n,n_cases,pct
+H-S,Other,Pharmaceutical,2,5,40
+H-S,Alcohol,Pharmaceutical,1,5,20
+H-S,Antidepressants,Pharmaceutical,1,5,20
+H-S,Cannabis,Pharmaceutical,1,5,20
+H-S,Alcohol,Substance Use,1,5,20
+H-S,Cannabis,Substance Use,1,5,20
+Homicide,Other,Pharmaceutical,2,9,22.2
+Homicide,Alcohol,Pharmaceutical,1,9,11.1
+Homicide,Antidepressants,Pharmaceutical,1,9,11.1
+Homicide,Cannabis,Pharmaceutical,1,9,11.1
+Homicide,Z-drugs (Sedative-Hypnotics),Pharmaceutical,1,9,11.1
+Homicide,Alcohol,Substance Use,1,9,11.1
+Homicide,Cannabis,Substance Use,1,9,11.1

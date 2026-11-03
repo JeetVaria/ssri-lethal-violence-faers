@@ -1,0 +1,21 @@
+primaryid,caseid,year,quarter,sex,age_in_years,wt,reporter_country,event_dt,start_dt,fda_dt,occp_cod,i_f_code,ssri_drug,ssri_drug_roles,ssri_other_roles,role_cod,all_pts,all_outcomes,n_codrugs,codrug_names,polypharmacy
+4345981,4133827,2004,q2,Male,42,,,20020409,,20040423,,I,fluvoxamine,fluvoxamine [PS],"",PS,ALCOHOLISM; COMPLETED SUICIDE; GUN SHOT WOUND; MURDER; PHYSICAL ASSAULT,DE; OT,0,,mono
+4472761,5668352,2004,q4,Male,70,200,,19940605,,20041012,CN,I,sertraline,sertraline [PS],"",PS,COMPLETED SUICIDE; MURDER,DE,0,,mono
+4638251,5781644,2005,q2,Male,16,114,,20050321,20040101,20050418,,I,fluoxetine,fluoxetine [PS],"",PS,AGITATION; COMPLETED SUICIDE; CONDITION AGGRAVATED; DEPRESSION; EDUCATIONAL PROBLEM; MURDER; PHYSICAL ASSAULT,DE; HO; OT,0,,mono
+5142582,6042346,2006,q4,Male,,,UNITED STATES,,20030101,20061027,,F,fluoxetine,fluoxetine [PS],"",PS,COMPLETED SUICIDE; HOMICIDE; TOXICOLOGIC TEST ABNORMAL,DE,0,,mono
+5514554,6465498,2007,q4,Male,23,,UNITED STATES,20071105,,20071113,CN,I,paroxetine,paroxetine [PS],"",PS,ABNORMAL BEHAVIOUR; COMPLETED SUICIDE; DEPRESSION; DISSOCIATION; HOMICIDE; TREATMENT NONCOMPLIANCE,DE,0,,mono
+5875533,6751947,2008,q3,Male,55,,UNITED STATES,,,20080909,CN,I,fluoxetine,fluoxetine [PS],"",PS,COMPLETED SUICIDE; HOMICIDE,DE; OT,0,,mono
+6162221,6977536,2009,q2,Male,44,150,UNITED STATES,20090401,,20090417,,I,fluoxetine,fluoxetine [PS],"",PS,ABNORMAL BEHAVIOUR; AGGRESSION; COMPLETED SUICIDE; GUN SHOT WOUND; HALLUCINATION; HOMICIDE,DE,0,,mono
+6725955,7164838,2010,q2,Male,22,,DENMARK,20090816,20090814,20100512,OT,F,citalopram,"citalopram [PS, C]","",C; PS,AGGRESSION; AGITATION; COMPLETED SUICIDE; DRUG DISPENSING ERROR; HOMICIDE; INTENTIONAL OVERDOSE; INTENTIONAL SELF-INJURY; SWOLLEN TONGUE,DE; OT,0,,mono
+6870126,7469268,2010,q3,Male,35,,FRANCE,20100530,,20100722,CN,F,sertraline,sertraline [PS],"",PS,COMPLETED SUICIDE; DISTURBANCE IN ATTENTION; HOMICIDE; SPEECH DISORDER,DE; OT,0,,mono
+7674145,8089453,2011,q3,Male,78,,UNITED STATES,20080430,20080425,20110808,CN,I,citalopram,citalopram [PS],"",PS,AGGRESSION; COMPLETED SUICIDE; GUN SHOT WOUND; HOMICIDE; SUICIDAL IDEATION,DE; OT,0,,mono
+7688140,8093641,2011,q3,Male,,,UNITED STATES,20030925,20030101,20110817,CN,I,fluoxetine,fluoxetine [PS],"",PS,COMPLETED SUICIDE; HOMICIDE,DE; OT,0,,mono
+7901134,7117839,2011,q4,Female,41,63,UNITED STATES,20070701,20070701,20111108,LW,F,sertraline,sertraline [PS],"",PS,COMPLETED SUICIDE; HOMICIDE; PARANOIA; PSYCHOTIC DISORDER,DE; OT,0,,mono
+87718801,8771880,2012,q4,Female,,,US,201208,,20120906,CN,I,fluoxetine,fluoxetine [PS],"",PS,Completed suicide; Homicide,DE; OT,0,,mono
+92582441,9258244,2013,q2,Female,41,,GB,20130323,,20130422,CN,I,sertraline,sertraline [PS],"",PS,Accident; Completed suicide; Condition aggravated; Depression; Homicide; Panic attack; Weight decreased,DE,0,,mono
+138351141,13835114,2017,q3,,,,GB,,,20170804,CN,I,paroxetine,paroxetine [PS],"",PS,Completed suicide; Homicide,DE; OT,0,,mono
+146077982,14607798,2018,q1,Female,40,,CA,,,20180309,CN,F,escitalopram,escitalopram [PS],"",PS,Completed suicide; Homicide; Off label use,DE; OT,0,,mono
+146632894,14663289,2018,q2,Male,,,US,,,20180422,CN,F,paroxetine,"paroxetine [PS, SS]","",PS; SS,Alcohol use; Anxiety; Completed suicide; Decreased appetite; Depression; Discomfort; Divorced; Feeling abnormal; Feeling of despair; Homicide; Insomnia; Mania; Partner stress; Psychiatric symptom; Staring; Weight decreased,DE; OT,0,,mono
+204215231,20421523,2022,q1,Male,,,US,19930101,1993,20220203,CN,I,fluoxetine,fluoxetine [PS],"",PS,Completed suicide; Homicide,DE; OT,0,,mono
+235616751,23561675,2024,q1,Male,,,US,,2008,20240225,CN,I,fluoxetine,fluoxetine [PS],"",PS,Completed suicide; Homicide; Physical assault,DE; OT,0,,mono
+251603421,25160342,2025,q2,Male,,,US,,,20250404,CN,I,paroxetine,paroxetine [PS],"",PS,Completed suicide; Homicide,DE; OT,0,,mono

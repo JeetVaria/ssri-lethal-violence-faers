@@ -1,0 +1,7 @@
+drug,label,pt,expect_floor,expectation
+statin,Statin,Rhabdomyolysis,8,strong positive (established statin class effect)
+statin,Statin,Myopathy,8,strong positive (established statin class effect)
+warfarin,Warfarin,Haemorrhage,4,strong positive (anticoagulant bleeding)
+warfarin,Warfarin,Gastrointestinal Haemorrhage,4,strong positive (anticoagulant bleeding)
+warfarin,Warfarin,Cerebral Haemorrhage,4,strong positive (anticoagulant bleeding)
+ace_inhibitor,ACE inhibitor,Angioedema,4,strong positive (ACE-inhibitor angioedema)

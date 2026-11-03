@@ -1,0 +1,2 @@
+expected,ror,ror_ci_low,ror_ci_high,prr,prr_ci_low,prr_ci_high,chisq,chisq_pvalue,bcpnn_mcmc_ic,bcpnn_mcmc_ic_ci_low,bcpnn_mcmc_ic_ci_high,ebgm,ebgm_ci_low,ebgm_ci_high,a,b,c,d,ror_signal,prr_signal,ic_signal,ebgm_signal,full_consensus,pt
+1.13519581131664,61.838953653958,43.542152353215,87.82423427293,61.8210412366676,43.5325510850689,87.7927216375931,1827.70558640392,0,4.86039220587732,4.46892148135752,5.18423175801306,40.813687,31.884155,51.612696,47,159587,93,19527414,TRUE,TRUE,TRUE,TRUE,TRUE,Homicide + Completed suicide (co-reported)

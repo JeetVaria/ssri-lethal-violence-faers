@@ -1,0 +1,133 @@
+role,drug,term
+study,fluoxetine,fluoxetine
+study,fluoxetine,fluoxetine hydrochloride
+study,fluoxetine,fluoxetine hcl
+study,fluoxetine,fluoxetina
+study,fluoxetine,fluoxetinum
+study,fluoxetine,prozac
+study,fluoxetine,prozac weekly
+study,fluoxetine,sarafem
+study,fluoxetine,selfemra
+study,fluoxetine,rapiflux
+study,fluoxetine,fontex
+study,fluoxetine,fluctin
+study,fluoxetine,fluxene
+study,fluoxetine,foxetin
+study,fluoxetine,seromex
+study,fluoxetine,seronil
+study,fluoxetine,reconcile
+study,paroxetine,paroxetine
+study,paroxetine,paroxetine hydrochloride
+study,paroxetine,paroxetine mesylate
+study,paroxetine,paroxetine hcl
+study,paroxetine,paroxetina
+study,paroxetine,paroxetinum
+study,paroxetine,paxil
+study,paroxetine,paxil cr
+study,paroxetine,pexeva
+study,paroxetine,brisdelle
+study,paroxetine,seroxat
+study,paroxetine,aropax
+study,paroxetine,deroxat
+study,paroxetine,motivan
+study,paroxetine,rexetin
+study,paroxetine,divarius
+study,paroxetine,frosinor
+study,paroxetine,tagonis
+study,sertraline,sertraline
+study,sertraline,sertraline hydrochloride
+study,sertraline,sertraline hcl
+study,sertraline,sertralina
+study,sertraline,sertralin
+study,sertraline,zoloft
+study,sertraline,lustral
+study,sertraline,asentra
+study,sertraline,serlain
+study,sertraline,stimuloton
+study,sertraline,aremis
+study,sertraline,besitran
+study,sertraline,gladem
+study,sertraline,serad
+study,fluvoxamine,fluvoxamine
+study,fluvoxamine,fluvoxamine maleate
+study,fluvoxamine,fluvoxamine cr
+study,fluvoxamine,fluvoxamina
+study,fluvoxamine,luvox
+study,fluvoxamine,luvox cr
+study,fluvoxamine,faverin
+study,fluvoxamine,fevarin
+study,fluvoxamine,dumyrox
+study,fluvoxamine,dumirox
+study,fluvoxamine,floxyfral
+study,fluvoxamine,movox
+study,citalopram,citalopram
+study,citalopram,citalopram hydrobromide
+study,citalopram,citalopram hydrochloride
+study,citalopram,citalopram hbr
+study,citalopram,citaloprama
+study,citalopram,celexa
+study,citalopram,cipramil
+study,citalopram,seropram
+study,citalopram,recital
+study,escitalopram,escitalopram
+study,escitalopram,escitalopram oxalate
+study,escitalopram,escitalopram hydrobromide
+study,escitalopram,escitalopram hbr
+study,escitalopram,escitaloprama
+study,escitalopram,lexapro
+study,escitalopram,cipralex
+study,escitalopram,seroplex
+study,escitalopram,esertia
+study,escitalopram,elicea
+study,escitalopram,entact
+study,escitalopram,sipralexa
+study,escitalopram,sipralex
+comparator,varenicline,varenicline
+comparator,varenicline,varenicline tartrate
+comparator,varenicline,chantix
+comparator,varenicline,champix
+comparator,varenicline,vareniklina
+comparator,varenicline,vareniclin
+qa,vitamind,vitamin d
+qa,vitamind,vitamin d3
+qa,vitamind,vitamin d2
+qa,vitamind,cholecalciferol
+qa,vitamind,colecalciferol
+qa,vitamind,vit d
+qa,vitamind,vit d3
+qa,statin,atorvastatin
+qa,statin,simvastatin
+qa,statin,rosuvastatin
+qa,statin,pravastatin
+qa,statin,lovastatin
+qa,statin,fluvastatin
+qa,statin,pitavastatin
+qa,statin,lipitor
+qa,statin,zocor
+qa,statin,crestor
+qa,statin,pravachol
+qa,statin,mevacor
+qa,statin,altoprev
+qa,statin,lescol
+qa,statin,livalo
+qa,statin,zypitamag
+qa,warfarin,warfarin
+qa,warfarin,coumadin
+qa,warfarin,jantoven
+qa,ace_inhibitor,lisinopril
+qa,ace_inhibitor,enalapril
+qa,ace_inhibitor,ramipril
+qa,ace_inhibitor,perindopril
+qa,ace_inhibitor,benazepril
+qa,ace_inhibitor,captopril
+qa,ace_inhibitor,quinapril
+qa,ace_inhibitor,fosinopril
+qa,ace_inhibitor,trandolapril
+qa,ace_inhibitor,moexipril
+qa,ace_inhibitor,prinivil
+qa,ace_inhibitor,zestril
+qa,ace_inhibitor,vasotec
+qa,ace_inhibitor,altace
+qa,ace_inhibitor,lotensin
+qa,ace_inhibitor,accupril
+qa,ace_inhibitor,monopril

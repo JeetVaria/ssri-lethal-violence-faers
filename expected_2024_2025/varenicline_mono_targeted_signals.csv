@@ -1,0 +1,11 @@
+expected,ror,ror_ci_low,ror_ci_high,prr,prr_ci_low,prr_ci_high,chisq,chisq_pvalue,bcpnn_mcmc_ic,bcpnn_mcmc_ic_ci_low,bcpnn_mcmc_ic_ci_high,ebgm,ebgm_ci_low,ebgm_ci_high,pt,a,b,c,d,group,ror_signal,prr_signal,ic_signal,ebgm_signal,full_consensus,drug
+1.96951955902986,2.03543461191389,0.762311837340957,5.43477597544377,2.03301819508328,0.763152186077861,5.41590924712099,1.19185241598856,0.274956220266214,0.865694623191587,-0.881977733203935,1.94662282401206,1.546891,0.628638,3.314244,Suicide Attempt,4,1710,1996,1736816,Suicidality,FALSE,TRUE,FALSE,FALSE,FALSE,varenicline
+4.83615527719781,2.70550169969434,1.56658435173993,4.6724196108044,2.69256615588102,1.56555794916024,4.63088096335541,12.1912479459352,0.000480142517074049,1.33908685754461,0.438749182262331,2.0030864311231,2.399259,1.484685,3.713271,Suicidal Ideation,13,1701,4898,1733914,Suicidality,TRUE,TRUE,TRUE,FALSE,FALSE,varenicline
+,,,,,,,,,,,,,,,Aggression,2,1712,1707,1737105,Homicidality,FALSE,FALSE,FALSE,FALSE,FALSE,varenicline
+,,,,,,,,,,,,,,,Homicidal Ideation,0,1714,78,1738734,Homicidality,FALSE,FALSE,FALSE,FALSE,FALSE,varenicline
+,,,,,,,,,,,,,,,Homicide,0,1714,58,1738754,Homicidality,FALSE,FALSE,FALSE,FALSE,FALSE,varenicline
+,,,,,,,,,,,,,,,Violence-Related Symptom,0,1714,46,1738766,Homicidality,FALSE,FALSE,FALSE,FALSE,FALSE,varenicline
+,,,,,,,,,,,,,,,Completed Suicide,0,1714,1292,1737520,Suicidality,FALSE,FALSE,FALSE,FALSE,FALSE,varenicline
+,,,,,,,,,,,,,,,Intentional Self-Injury,0,1714,823,1737989,Suicidality,FALSE,FALSE,FALSE,FALSE,FALSE,varenicline
+,,,,,,,,,,,,,,,Serotonin Syndrome,0,1714,273,1738539,ADR benchmark,FALSE,FALSE,FALSE,FALSE,FALSE,varenicline
+,,,,,,,,,,,,,,,Ingrowing Nail,0,1714,127,1738685,QA (expected null),FALSE,FALSE,FALSE,FALSE,FALSE,varenicline

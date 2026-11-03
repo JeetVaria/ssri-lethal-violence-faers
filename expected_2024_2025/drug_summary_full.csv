@@ -1,0 +1,10 @@
+outcome,drug,n,n_cases,pct
+Homicide,Dextromethorphan,2,9,22.2
+Homicide,Alcohol,1,9,11.1
+Homicide,Dronabinol,1,9,11.1
+Homicide,Venlafaxine,1,9,11.1
+Homicide,Zolpidem,1,9,11.1
+H-S,Dextromethorphan,2,5,40
+H-S,Alcohol,1,5,20
+H-S,Dronabinol,1,5,20
+H-S,Venlafaxine,1,5,20

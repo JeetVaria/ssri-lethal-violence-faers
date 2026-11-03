@@ -1,0 +1,6 @@
+class,ingredient,assigned_by,substance,H-S,Homicide
+Alcohol,ALCOHOL,RxNorm-resolved class,Alcohol,1,1
+Antidepressants,VENLAFAXINE,RxNorm-resolved class,,1,1
+Cannabis,DRONABINOL,RxNorm-resolved class,Cannabis,1,1
+Other,DEXTROMETHORPHAN,Unclassified,,2,2
+Z-drugs (Sedative-Hypnotics),ZOLPIDEM,RxNorm-resolved class,,0,1

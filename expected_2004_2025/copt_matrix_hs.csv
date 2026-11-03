@@ -1,0 +1,81 @@
+PT,category,broad_category,mono,poly,total,n_cases
+"TOTAL (>=1 PT, Manic/hypomanic)",Manic/hypomanic,,1,1,2,47
+"TOTAL (>=1 PT, Psychosis)",Psychosis,,2,8,10,47
+"TOTAL BROAD (>=1 PT, Bipolar and Related Symptoms)",,Bipolar and Related Symptoms,1,1,2,47
+"TOTAL BROAD (>=1 PT, Depressive Symptoms)",,Depressive Symptoms,4,3,7,47
+"TOTAL BROAD (>=1 PT, Schizophrenia Spectrum & Psychotic Symptoms)",,Schizophrenia Spectrum & Psychotic Symptoms,2,7,9,47
+"TOTAL BROAD (>=1 PT, Anxiety, OCD, Trauma-Related and Dissociative Symptoms)",,"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",3,0,3,47
+"TOTAL BROAD (>=1 PT, Neurocognitive and Neurodevelopmental Symptoms)",,Neurocognitive and Neurodevelopmental Symptoms,0,1,1,47
+"TOTAL BROAD (>=1 PT, Akathisia/Extrapyramidal Symptoms)",,Akathisia/Extrapyramidal Symptoms,0,2,2,47
+Gun Shot Wound,Other,Other,3,4,7,47
+Aggression,Other,Other,3,2,5,47
+Depression,Other,Depressive Symptoms,4,0,4,47
+Suicidal Ideation,Other,Other,1,3,4,47
+Abnormal Behaviour,Other,Other,2,1,3,47
+Agitation,Other,Other,2,1,3,47
+Hallucination,Psychosis,Schizophrenia Spectrum & Psychotic Symptoms,1,2,3,47
+Physical Assault,Other,Other,3,0,3,47
+Compulsive Sexual Behaviour,Other,Other,0,2,2,47
+Condition Aggravated,Other,Other,2,0,2,47
+Death,Other,Other,0,2,2,47
+Drug Abuse,Other,Other,0,2,2,47
+Drug Interaction,Other,Other,0,2,2,47
+Feeling Abnormal,Other,Other,1,1,2,47
+Homicidal Ideation,Other,Other,0,2,2,47
+Insomnia,Other,Other,1,1,2,47
+Intentional Overdose,Other,Other,1,1,2,47
+Off Label Use,Other,Other,1,1,2,47
+Psychotic Disorder,Psychosis,Schizophrenia Spectrum & Psychotic Symptoms,1,1,2,47
+Serotonin Syndrome,Other,Other,0,2,2,47
+Toxicity to Various Agents,Other,Other,0,2,2,47
+Treatment Noncompliance,Other,Other,1,1,2,47
+Weight Decreased,Other,Other,2,0,2,47
+Accident,Other,Other,1,0,1,47
+Akathisia,Other,Akathisia/Extrapyramidal Symptoms,0,1,1,47
+Alcohol Use,Other,Other,1,0,1,47
+Alcoholism,Other,Other,1,0,1,47
+Anxiety,Other,"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",1,0,1,47
+Asphyxia,Other,Other,0,1,1,47
+Brain Contusion,Other,Other,0,1,1,47
+Chemical Poisoning,Other,Other,0,1,1,47
+Decreased Appetite,Other,Other,1,0,1,47
+Delirium,Psychosis,Neurocognitive and Neurodevelopmental Symptoms,0,1,1,47
+Delusion,Psychosis,Schizophrenia Spectrum & Psychotic Symptoms,0,1,1,47
+Discomfort,Other,Other,1,0,1,47
+Dissociation,Other,"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",1,0,1,47
+Disturbance in Attention,Other,Other,1,0,1,47
+Divorced,Other,Other,1,0,1,47
+Drug Level above Therapeutic,Other,Other,0,1,1,47
+Educational Problem,Other,Other,1,0,1,47
+Emotional Disorder,Other,Depressive Symptoms,0,1,1,47
+Emotional Distress,Other,Depressive Symptoms,0,1,1,47
+Euphoric Mood,Manic/hypomanic,Bipolar and Related Symptoms,0,1,1,47
+Feeling of Despair,Other,Depressive Symptoms,1,0,1,47
+"Hallucination, Auditory",Psychosis,Schizophrenia Spectrum & Psychotic Symptoms,0,1,1,47
+Incoherent,Other,Other,0,1,1,47
+Intentional Self-Injury,Other,Other,1,0,1,47
+Irritability,Other,Other,0,1,1,47
+Laziness,Other,Other,0,1,1,47
+Left Ventricular Hypertrophy,Other,Other,0,1,1,47
+Major Depression,Other,Depressive Symptoms,0,1,1,47
+Mania,Manic/hypomanic,Bipolar and Related Symptoms,1,0,1,47
+Marital Problem,Other,Other,0,1,1,47
+Panic Attack,Other,"Anxiety, OCD, Trauma-Related and Dissociative Symptoms",1,0,1,47
+Paranoia,Psychosis,Schizophrenia Spectrum & Psychotic Symptoms,1,0,1,47
+Partner Stress,Other,Other,1,0,1,47
+Product Dispensing Error,Other,Other,1,0,1,47
+Product Use Issue,Other,Other,0,1,1,47
+Psychiatric Symptom,Other,Other,1,0,1,47
+Pulmonary Haemorrhage,Other,Other,0,1,1,47
+Restlessness,Other,Akathisia/Extrapyramidal Symptoms,0,1,1,47
+Sexual Abuse,Other,Other,0,1,1,47
+Shared Psychotic Disorder,Psychosis,Schizophrenia Spectrum & Psychotic Symptoms,0,1,1,47
+Skin Laceration,Other,Other,0,1,1,47
+Speech Disorder,Other,Other,1,0,1,47
+Staring,Other,Other,1,0,1,47
+Stress,Other,Other,0,1,1,47
+Subarachnoid Haemorrhage,Other,Other,0,1,1,47
+Substance-Induced Psychotic Disorder,Psychosis,Schizophrenia Spectrum & Psychotic Symptoms,0,1,1,47
+Swollen Tongue,Other,Other,1,0,1,47
+Thinking Abnormal,Other,Other,0,1,1,47
+Toxicologic Test Abnormal,Other,Other,1,0,1,47
