@@ -2,7 +2,7 @@
 
 Analysis code for:
 
-> **Varia J, Nicholson T, Manookian L. A 22-year disproportionality analysis of SSRIs and lethal violence in the FDA Adverse Event Reporting System. Preprint. 2026. [PREPRINT DOI]**
+> **Varia J, Nicholson T, Manookian L. A 22-year disproportionality analysis of SSRIs and lethal violence in the FDA Adverse Event Reporting System. Manuscript submitted for publication. 2026.**
 
 ## Introduction
 
@@ -407,7 +407,7 @@ rights reserved.
 If you use them, please give the following citation:
 
 > Varia J, Nicholson T, Manookian L. A 22-year disproportionality analysis of SSRIs and lethal
-> violence in the FDA Adverse Event Reporting System. Preprint. 2026. [PREPRINT DOI]
+> violence in the FDA Adverse Event Reporting System. Manuscript submitted for publication. 2026.
 
 The code itself can be cited via `CITATION.cff`.
 
